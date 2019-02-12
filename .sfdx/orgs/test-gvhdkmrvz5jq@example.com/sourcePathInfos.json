@@ -32,14 +32,14 @@
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549877403512,
             "changeTime": 1549877403512,
-            "contentHash": "eb1b461b40bc200f75ea96dc13e506e2e58145d7"
+            "contentHash": "eb1b461b40bc200f75ea96dc13e506e2e58145d7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -50,9 +50,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549877403482,
-            "changeTime": 1549877403482,
-            "contentHash": "e27a45a3ccc1a397a46a8e3dc5c262ab44e12463"
+            "modifiedTime": 1549937402725,
+            "changeTime": 1549937402725,
+            "contentHash": "356d20c27e9148dc391d4bb2da9edc1832a990a7"
         }
     ],
     [
@@ -148,131 +148,131 @@
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\UserDeactivation__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\UserDeactivation__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2116,
             "modifiedTime": 1549877403446,
             "changeTime": 1549877403446,
-            "contentHash": "b2572f2d1606ffc62ade36e018f0c1ce715fcae9"
+            "contentHash": "b2572f2d1606ffc62ade36e018f0c1ce715fcae9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\ReasonForDeactivation__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\ReasonForDeactivation__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 389,
             "modifiedTime": 1549877403450,
             "changeTime": 1549877403450,
-            "contentHash": "2dde3cd50cbd3245c7fad1a8bc0d255d7b7026d5"
+            "contentHash": "2dde3cd50cbd3245c7fad1a8bc0d255d7b7026d5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\UserToDeactivate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\UserToDeactivate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 475,
             "modifiedTime": 1549877403451,
             "changeTime": 1549877403451,
-            "contentHash": "a1426658bf1518136e7ea42a70899203567f1476"
+            "contentHash": "a1426658bf1518136e7ea42a70899203567f1476",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1549877403455,
             "changeTime": 1549877403455,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\UserDeactivation__c-User Deactivation Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\UserDeactivation__c-User Deactivation Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2248,
             "modifiedTime": 1549877403472,
             "changeTime": 1549877403472,
-            "contentHash": "06674440b696d046a2209f5bd790fd86371cc351"
+            "contentHash": "06674440b696d046a2209f5bd790fd86371cc351",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs\\UserDeactivation__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs\\UserDeactivation__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1549877403480,
             "changeTime": 1549877403480,
-            "contentHash": "679ba1a1946ff4dd756640af97489d28021a69d5"
+            "contentHash": "679ba1a1946ff4dd756640af97489d28021a69d5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1549877403482,
             "changeTime": 1549877403482,
-            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 472,
             "modifiedTime": 1549877403482,
             "changeTime": 1549877403482,
-            "contentHash": "7ccdee5e16ef58ef169565837f8ce4f548a699cf"
+            "contentHash": "7ccdee5e16ef58ef169565837f8ce4f548a699cf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
             "modifiedTime": 1549877403493,
             "changeTime": 1549877403493,
-            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16"
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 338,
             "modifiedTime": 1549877403496,
             "changeTime": 1549877403496,
-            "contentHash": "9417bb52a706779189132ae46ddbe766f14a1fab"
+            "contentHash": "9417bb52a706779189132ae46ddbe766f14a1fab",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -282,10 +282,10 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 19845,
-            "modifiedTime": 1549877403512,
-            "changeTime": 1549877403512,
-            "contentHash": "52176f0bd24f2728e089dae675e533a17e7aed12"
+            "size": 20248,
+            "modifiedTime": 1549937402836,
+            "changeTime": 1549937402836,
+            "contentHash": "188848a319d5e4608b240af7d902c9c422900bad"
         }
     ],
     [
@@ -295,10 +295,10 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5454,
-            "modifiedTime": 1549877403522,
-            "changeTime": 1549877403522,
-            "contentHash": "3baaf444ab1bd771bf76178c6dba6af14807ad84"
+            "size": 5872,
+            "modifiedTime": 1549937402848,
+            "changeTime": 1549937402848,
+            "contentHash": "c7bffbc8951887200940d15356d31e49ddf61a8c"
         }
     ],
     [
@@ -308,10 +308,10 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5116,
-            "modifiedTime": 1549877403522,
-            "changeTime": 1549877403522,
-            "contentHash": "bf4ae00a2d046897b90db31cc850b47a2e9cc9af"
+            "size": 5536,
+            "modifiedTime": 1549937402863,
+            "changeTime": 1549937402863,
+            "contentHash": "af48b0321ba9080baae6443def9c024b67308f5d"
         }
     ],
     [
@@ -321,23 +321,23 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5116,
-            "modifiedTime": 1549877403535,
-            "changeTime": 1549877403535,
-            "contentHash": "bf4ae00a2d046897b90db31cc850b47a2e9cc9af"
+            "size": 5532,
+            "modifiedTime": 1549937402887,
+            "changeTime": 1549937402887,
+            "contentHash": "86b9b737a55c4daf98aa4e50c42a8dfb6dce924f"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549877403452,
             "changeTime": 1549877403452,
-            "contentHash": "6a354212f52b6be60efc8bbdced2e0c37792dd3e"
+            "contentHash": "6a354212f52b6be60efc8bbdced2e0c37792dd3e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -348,35 +348,35 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549877403443,
-            "changeTime": 1549877403443,
-            "contentHash": "89ff127df32147a898d33c0cfca44a24f49af251"
+            "modifiedTime": 1549937402635,
+            "changeTime": 1549937402635,
+            "contentHash": "acec8fa8915ecf6786b5c1b9c88e8657332a64ab"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549877403451,
             "changeTime": 1549877403451,
-            "contentHash": "2a745d6c25e56720bfd8af4f183f226682a757fd"
+            "contentHash": "2a745d6c25e56720bfd8af4f183f226682a757fd",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549877403455,
             "changeTime": 1549877403455,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -387,22 +387,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549877403472,
-            "changeTime": 1549877403472,
-            "contentHash": "1382fc78bee56fe6e4678351b8dfbfcd4285b88f"
+            "modifiedTime": 1549937402706,
+            "changeTime": 1549937402706,
+            "contentHash": "f95ecc05f43fd8707d5fe93f542504902250b916"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549877403479,
             "changeTime": 1549877403479,
-            "contentHash": "3815597bb6666eb48890681aff09ba9875783502"
+            "contentHash": "3815597bb6666eb48890681aff09ba9875783502",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -413,22 +413,165 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549877403496,
-            "changeTime": 1549877403496,
-            "contentHash": "bc400b05499d6075dbb25fca4bfeb558e5101eea"
+            "modifiedTime": 1549937402752,
+            "changeTime": 1549937402752,
+            "contentHash": "8df90b13686fab16b4ba7aa82ef126020fe5d83f"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549877403532,
             "changeTime": 1549877403532,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields\\Total_Family_Members__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields\\Total_Family_Members__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1549937402645,
+            "changeTime": 1549937402645,
+            "contentHash": "f4de0f832ba33148c3fb314fbb48b85a4d6d5de6"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9643,
+            "modifiedTime": 1549937402666,
+            "changeTime": 1549937402666,
+            "contentHash": "d794435414c560b7db7b0cc141a2c7aab89cf4c2"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9328,
+            "modifiedTime": 1549937402678,
+            "changeTime": 1549937402678,
+            "contentHash": "eb2f5715bd42db2c612e0ffc8f19806126e16abe"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9619,
+            "modifiedTime": 1549937402692,
+            "changeTime": 1549937402692,
+            "contentHash": "1cb09cd7b57415bc0cac8299a67c32cf7a945ef5"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9619,
+            "modifiedTime": 1549937402707,
+            "changeTime": 1549937402707,
+            "contentHash": "b1ed05835b0f885cc3074f7a2e3ea1a61b79eb95"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1549937402715,
+            "changeTime": 1549937402715,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1885,
+            "modifiedTime": 1549937402727,
+            "changeTime": 1549937402727,
+            "contentHash": "0c30bf6886a1935ba804a694d8bdf8650265f572"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1549937402741,
+            "changeTime": 1549937402741,
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 586,
+            "modifiedTime": 1549937402753,
+            "changeTime": 1549937402753,
+            "contentHash": "ad77239d304a3fe8c65a3137934bb35262610e16"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549937402644,
+            "changeTime": 1549937402644,
+            "contentHash": "07eab16c7338bdf042d5e194527269e891e1f4f6"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549937402638,
+            "changeTime": 1549937402638,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
         }
     ]
 ]
