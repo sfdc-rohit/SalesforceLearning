@@ -1,0 +1,33 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:attribute name="isOpen" type="boolean" default="false"/>
+    <!--
+    <div class="slds-align_absolute-center slds-m-top_medium">
+        <lightning:button variant="brand" label="Login" title="Login" onclick="{!c.clickLogin}" />
+    </div>
+    -->
+    <div class= "slds-grid slds-gutters" style="background:white;">
+        <div class="slds-col slds-size_6-of-12">
+            <span>
+                
+                <div class="slds-align_absolute-center slds-m-top_medium">
+                    <img src="{!$Resource.Images + '/Images/trailhead.jpg'}" width="100" height="100"/>
+                </div>
+                <h1 class="h11 slds-align_absolute-center">Log into Trailhead</h1>
+                <div class="slds-align_absolute-center  " style="width:500px;" >
+                    <!--<lightning:button class="" iconName="utility:salesforce1" iconPosition="left"
+                                      variant="brand" label="Log in with Salesforce" 
+                                      title="Login" onclick="{!c.clickLogin}" />-->
+                    <button iconName="utility:salesforce1" iconPosition="left" style="width:250px" class="slds-button slds-button_brand "><span style="font-size:20px;">Log in with Salesforce</span></button> 
+                </div>
+                
+      
+            </span>
+        </div>
+        <div class="slds-col slds-size_6-of-12">
+            <span>2</span>
+        </div>
+        <div class="vl"></div>
+        <br/>
+        <div class="vl"></div>
+    </div>
+</aura:component>
