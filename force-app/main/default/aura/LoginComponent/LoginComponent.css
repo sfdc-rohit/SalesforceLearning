@@ -1,0 +1,18 @@
+.THIS .slds-modal__container{
+    max-width: 70rem !important;
+    width:80% !important;
+}
+
+.THIS .vl {
+    border-left : 2px solid black;
+    height :100px;
+    position:absolute;
+    opacity: 0.3;
+    left:50%;
+    top:0;
+    margin-left:-3px;
+}
+.THIS .h11 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+}
