@@ -1,0 +1,29 @@
+<aura:component controller="PincodeIntegrationClass" >
+    <aura:attribute name="pincode" type="String" />
+    <aura:attribute name="numberOfPostOffice" type="String" />
+    <aura:attribute name="postOfficesdetail" type="List" />
+    
+    <div class="slds-grid">
+        
+        <div class="slds-col slds-size_3-of-12"></div>
+        <div class="slds-col slds-size_3-of-12">
+            <lightning:input type="number" name="Pincode" label="Enter Pincode" value="{!v.pincode}"/>
+        </div>
+        <div class="slds-col slds-size_3-of-12 slds-m-top_large  slds-m-left_medium">
+            <lightning:button variant="brand" label="Find Info" title="Find Info" onclick="{! c.handleClick }"/>
+        </div>
+        <div class="slds-col slds-size_3-of-12"></div>
+        
+    </div>
+    <div class="slds-grid slds-m-top_large">
+        <div class="slds-col slds-size_4-of-12 ">
+        </div>
+        {!v.numberOfPostOffice}
+    </div>
+    <div class="slds-grid slds-m-top_large">
+    	<div class="slds-col slds-size_4-of-12" />
+        <aura:iteration items="{!v.postOfficesdetail}" var="item">
+            {!item.Name}<br/>
+        </aura:iteration>
+    </div>
+</aura:component>
