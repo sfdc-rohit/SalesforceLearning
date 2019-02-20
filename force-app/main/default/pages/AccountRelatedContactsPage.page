@@ -1,0 +1,145 @@
+<apex:page controller="AccountRelatedContacts" sidebar="false" docType="html-5.0" showHeader="false"  >    
+    <html>
+        <head>
+            <apex:slds />                       
+            <apex:includeScript value="https://code.jquery.com/jquery-3.3.1.min.js"/>
+            <style>
+                .input-box{
+                min-height: 34px !important; 
+                text-align:left !important; 
+                height:34px;
+                width:20% !important;
+                border-radius: 0;
+                }
+                .datatable{
+                display:none !important;
+				}
+            </style>
+        </head>        
+        <script>
+        
+        function clickAccount(accId){
+            console.log(accId);
+            $('.contacts-'+accId).toggle(2000);
+        }
+        function search(key){
+            console.log(key);
+            searchkeyword(key);
+        }           
+        </script>
+        <apex:form id="d">
+             <!-- Ajax Action Animation -->
+                <apex:actionStatus id="actionstatus">
+                    <apex:facet name="start">
+                    <div class="demo-only">
+                        <div class="slds-spinner_container">
+                            <div role="status" class="slds-spinner slds-spinner_medium slds-spinner_inverse">
+                                <div class="slds-spinner__dot-a"></div>
+                                <div class="slds-spinner__dot-b"></div>
+                            </div>
+                        </div>
+                    </div>
+                    </apex:facet>
+                </apex:actionStatus>
+             <!--// End animation -->
+            <apex:actionFunction name="searchkeyword" action="{!searchAccountContacts}" reRender="show" >
+                <apex:param name="key" assignTo="{!searchkeyword}" value=""/>
+            </apex:actionFunction>
+            <br/>
+            <br/>
+           
+          
+            <div class="slds-grid">
+                <div class="slds-wrap" style="width:100%">                    
+                    Enter Account Name:&nbsp;&nbsp;                    
+                    <c:AutoCompleteComponent />
+                    &nbsp;&nbsp;
+                </div>        
+            </div>
+            <br/>
+            <br/>
+            <apex:outputPanel id="show">
+                <table class="slds-no-row-hover slds-table  slds-table_bordered slds-p-left_x-small slds-table_col-bordered visit-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 4%;">
+                            	No.
+                            </th>
+                            <th>
+                                Account Name
+                            </th>
+                        </tr>
+                        
+                    </thead>
+                    <apex:variable value="{!1}" var="var"/>
+                    <apex:repeat value="{!accountContactList}" var="acc">                        
+                        <tr>
+                            <td>1</td>
+                            <td style="cursor:pointer">
+                                <div onclick="clickAccount('{!acc.acc.Id}')" >                                            
+                                    <apex:outputText value="{!acc.acc.Name}"  />
+                                </div>                                
+                            </td>
+                        </tr>
+                        <tr class="contacts-{!acc.acc.Id}" Style="display:none;">
+                        	<td></td>
+                            <td>
+                                <table class="slds-no-row-hover slds-table datatablee slds-table_bordered slds-table_col-bordered visit-table contacts-{!acc.acc.Id}" 
+                                       Style="display:none;" >
+                                    <thead>
+                                        <th>
+                                            First Name
+                                        </th>
+                                        <th>
+                                            Last Name
+                                        </th>
+                                        <th>
+                                            Email
+                                        </th>
+                                        <th>
+                                            Phone
+                                        </th>
+                                    </thead>
+                                     <tr Style="{!If(acc.conList.size ==0,'','display:none')}" > 
+                                        <td colspan="4">No Contacts to Display.</td>
+                                     </tr>
+                                    <apex:repeat value="{!acc.conList}" var="con">
+                                       
+                                        <tr Style="{!If(accountContactList.size>0,'','display:none')}">
+                                            <td>
+                                                <a target="_blank" href="/{!con.Id}">
+                                                    <apex:outputText style="display:none;" styleClass="contacts-{!con.accountId}" value="{!con.firstName}"/>
+                                                </a>
+                                            </td>
+                                            <td>
+                                                <a target="_blank" href="/{!con.Id}">
+                                                    <apex:outputText style="display:none;" styleClass="contacts-{!con.accountId}" value="{!con.LastName}"/>
+                                                </a>
+                                            </td>
+                                            <td>
+                                                <a target="_blank" href="/{!con.Id}">
+                                                    <apex:outputText style="display:none;" styleClass="contacts-{!con.accountId}" value="{!con.Email}"/>
+                                                </a>
+                                            </td>
+                                            <td>
+                                                <a target="_blank" href="/{!con.Id}">
+                                                    <apex:outputText style="display:none;" styleClass="contacts-{!con.accountId}" value="{!con.Phone}"/>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        
+                                    </apex:repeat>
+                                </table>
+                            </td>
+                        </tr>
+                    </apex:repeat>
+                </table>
+            </apex:outputPanel>
+        </apex:form>
+        <script>
+         function showAccountDetail(accountId){           
+             searchkeyword(accountId);
+        }
+        </script>
+    </html>
+</apex:page>
