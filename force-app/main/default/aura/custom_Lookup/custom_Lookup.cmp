@@ -1,0 +1,255 @@
+<aura:component controller="Custom_Lookup_Controller" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global">
+    <!--declare attributes--> 
+    <aura:attribute name="selectedRecord" type="sObject" default="{}" description="Use,for store SELECTED sObject Record"/>
+    <aura:attribute name="listOfSearchRecords" type="List" description="Use,for store the list of search records which returns from apex class"/>
+    <aura:attribute name="SearchKeyWord" type="string"/>
+    <aura:attribute name="objectAPIName" type="string" default=""/>
+    <aura:attribute name="IconName" type="string" default=""/>
+    <aura:attribute name="label" type="string" default=""/>
+    <aura:attribute name="Message" type="String" default=""/>
+    <aura:attribute name="openModal" type="boolean" default="false" />
+    <aura:attribute name="isContact" type="boolean" default="false" />
+    <aura:attribute name="contactList" type="List" />
+    <aura:attribute name="newAccount" type="Account"
+                         default="{ 'sobjectType': 'Account',
+                                        'Name': '',
+                                        
+                                        'Email': '',
+                                        'Phone':''}"/>
+    
+    <aura:attribute name="data" type="Object"/>
+    <aura:attribute name="columns" type="List"/>
+    
+    
+    <!-- pagination -->
+    <aura:attribute name="PaginationList" type="List"/> 
+    <aura:attribute name="selectedCount" type="integer" default="0"
+                    description="selected Records Count"/>
+    
+    <aura:attribute name="startPage" type="Integer" />
+    <aura:attribute name="endPage" type="Integer"/>
+    <aura:attribute name="totalRecordsCount" type="Integer"/>
+    <aura:attribute name="pageSize" type="Integer" default="2"
+                    description="number of records to be display on per page"/>
+    <aura:attribute name="currentPage" type="integer" default="1"/>
+    <aura:attribute name="totalPagesCount" type="integer"/>
+    <aura:attribute name="bNoRecordsFound" type="boolean"/>
+    
+    <aura:attribute name="pageList" type="List" />
+    <!-- pagination -->
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    
+    <!--declare events hendlers-->  
+    <aura:handler name="oSelectedRecordEvent" event="c:custom_Lookup_Event" action="{!c.handleComponentEvent}"/>
+   
+    
+    <!-- https://www.lightningdesignsystem.com/components/lookups/ --> 
+    
+    <div onmouseleave="{!c.onblur}" aura:id="searchRes" class="slds-form-element slds-lookup slds-is-close" data-select="single">
+        <label class="slds-form-element__label" for="lookup-348">{!v.label}</label>
+        <!--This part is for display search bar for lookup-->  
+        <div class="slds-form-element__control">
+            
+            <div class="slds-input-has-icon slds-input-has-icon--right">
+                <!-- This markup is for when an record is selected -->
+                <div aura:id="lookup-pill" class="slds-pill-container slds-hide">
+                     <lightning:pill class="pillSize" label="{!v.selectedRecord.Name}" name="{!v.selectedRecord.Name}" onremove="{! c.clear }">
+                          <aura:set attribute="media">
+                             <lightning:icon iconName="{!v.IconName}" size="x-small" alternativeText="{!v.IconName}"/>
+                          </aura:set>
+                      </lightning:pill>
+                </div>
+                <div aura:id="lookupField" class="slds-show">
+                    <lightning:icon class="slds-input__icon slds-show" iconName="utility:search" size="x-small" alternativeText="searchvvvjvjg"/>
+                    <span class="slds-icon_container  slds-combobox__input-entity-icon" title="record">
+                        <lightning:icon class="slds-icon slds-icon slds-icon_small slds-icon-text-default" iconName="{!v.IconName}" size="x-small" alternativeText="icon"/>
+                        <span class="slds-assistive-text"></span>
+                    </span>
+                    <ui:inputText click="{!c.onfocus}" updateOn="keyup" keyup="{!c.keyPressController}" class="slds-lookup__search-input slds-input leftPaddingClass" value="{!v.SearchKeyWord}" placeholder="search.."/>
+                </div>   
+            </div>
+        </div>
+        <!--This part is for Display typehead lookup result List-->  
+        <ul style="min-height:40px;margin-top:0px !important" class="slds-listbox slds-listbox_vertical slds-dropdown slds-dropdown_fluid slds-lookup__menu slds" role="listbox">
+            <lightning:spinner class="slds-hide" variant="brand" size="small" aura:id="mySpinner"/>
+            <center> {!v.Message}</center>
+            <aura:iteration items="{!v.listOfSearchRecords}" var="singleRec">
+                <c:customLookupResult oRecord="{!singleRec}" IconName="{!v.IconName}"/>
+            </aura:iteration>
+            <li role="presentation" class="slds-listbox__item" onclick="{!c.createNewAccount}">
+                <span id="listbox-option-unique-id-01" class="slds-media slds-listbox__option slds-listbox__option_entity slds-listbox__option_has-meta" role="option">
+                    <span class="slds-media__figure">
+                        <span class="slds-icon_container" title="Description of icon when needed">
+                            <lightning:icon iconName="utility:add" class="slds-icon slds-icon_small" size="x-small" alternativeText="icon"/>
+                            <span class="slds-assistive-text">Description of icon</span>
+                        </span>
+                    </span>    
+                    <span class="slds-media__body">  
+                        <span class="slds-listbox__option-text slds-listbox__option-text_entity">New Account</span>
+                    </span>
+                </span>
+            </li>
+        </ul>
+    </div>
+    
+    <!-- Modal to create New Account Record  -->    
+     <aura:if isTrue="{!v.openModal}">
+            
+            <!--###### MODAL BOX Start######--> 
+            <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal slds-fade-in-open">
+                <div class="slds-modal__container">
+                    <!-- ###### MODAL BOX HEADER Start ######-->
+                    <header class="slds-modal__header">
+                        <lightning:buttonIcon iconName="utility:close"
+                                              onclick="{! c.closeModel }"
+                                              alternativeText="close"
+                                              variant="bare-inverse"
+                                              class="slds-modal__close"/>
+                        <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">New Account</h2>
+                    </header>
+                    <!--###### MODAL BOX BODY Part Start######-->
+                    <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+                        <h3 class="slds-section__title slds-theme--shade primaryPaletteBorder test-id__section-header-container" data-aura-rendered-by="602:1489;a">
+                            <span class="test-id__section-header-title section-header-title slds-p-horizontal--small slds-truncate" data-aura-rendered-by="604:1489;a">Account Information</span>
+                        </h3>
+                        
+                        <div class="slds-scope">
+                            <div class="slds-grid slds-wrap ">
+                                <div class="slds-col">
+                                    <lightning:input class="slds-size_2-of-2 slds-p-around_medium"
+                                                     aura:id="newAccountForm" label="Account Name"
+                                                     name="Account Name"
+                                                     value="{!v.newAccount.Name}"
+                                                     required="true"/>
+                                    <lightning:input class="slds-size_2-of-2 slds-p-around_medium" 
+                                                     aura:id="newAccountForm" label="Website"
+                                                     name="Website"
+                                                     value="{!v.newAccount.Email}"/>          
+                                </div>
+                                <div class="slds-col">
+                                    <!--<lightning:input class="slds-size_2-of-2 slds-p-around_medium"
+                                                     aura:id="contactField" label="Last Name"
+                                                     name="hello"
+                                                     value="{!v.newAccount.LastName}"/> -->
+                                    <lightning:input class="slds-size_2-of-2 slds-p-around_medium"
+                                                     type="Phone" aura:id="newAccountForm" label="Phone"
+                                                     value="{!v.newAccount.Phone}" />
+                                </div>
+                                <br/>    
+                                <div class="slds-col slds-size_12-of-12"></div>
+                                <!--<button class="slds-button slds-button_brand slds-m-around_medium  " onclick="{!c.filterContact}">Search</button>-->
+                            </div>      
+                        </div>
+                    </div>
+                    <!--###### MODAL BOX FOOTER Part Start ######-->
+                    <footer class="slds-modal__footer">
+                        <lightning:button variant="neutral" 
+                                          label="Cancel"
+                                          title="Cancel"
+                                          onclick="{! c.closeModel }"/>
+                        <lightning:button variant="brand" 
+                                          label="Save"
+                                          title="Save"
+                                          onclick="{!c.saveAccount}"/>
+                    </footer>
+                </div>
+            </section>
+            <div class="slds-backdrop slds-backdrop_open"></div>
+            <!--###### MODAL BOX Part END Here ######-->
+            
+        </aura:if>
+    <!-- Modal to create New Account Record  -->
+    
+    <!-- Lightning Data Table to display the related Contacts -->
+    <aura:if isTrue="{!v.isContact}">
+        <br/><br/>
+        <h2 class="slds-section__title slds-theme--shade primaryPaletteBorder test-id__section-header-container">
+            <span class="test-id__section-header-title section-header-title slds-p-horizontal--small slds-truncate" >Related Contacts</span>
+        </h2>
+        <br/>
+        <table class="slds-table slds-table_cell-buffer slds-table_bordered">
+            <thead>
+                <tr class="slds-line-height_reset">
+                    <th class="" scope="col">
+                        <div class="slds-truncate" title="First Name">First Name</div>
+                    </th>
+                    <th class="" scope="col">
+                        <div class="slds-truncate" title="Last Name">Last Name</div>
+                    </th>
+                    <th class="" scope="col">
+                        <div class="slds-truncate" title="Email">Email</div>
+                    </th>
+                    <th class="" scope="col">
+                        <div class="slds-truncate" title="Phone">Phone</div>
+                    </th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                <aura:iteration items="{!v.PaginationList}" var="con">
+                <tr class="slds-hint-parent">
+                    <th data-label="First Name" scope="row">
+                        <div class="slds-truncate" title="Cloudhub"><a href="javascript:void(0);" tabindex="-1">{!con.FirstName}</a></div>
+                    </th>
+                    <td data-label="Last Name">
+                        <div class="slds-truncate" title="Cloudhub">{!con.LastName}</div>
+                    </td>
+                    <td data-label="Email">
+                        <div class="slds-truncate" title="4/14/2015">{!con.Email}</div>
+                    </td>
+                    <td data-label="Phone">
+                        <div class="slds-truncate" title="Prospecting">{!con.Phone}</div>
+                    </td>
+                    
+                </tr>
+                </aura:iteration>
+            </tbody>
+        </table>
+        <br/><br/>
+        
+        <!--  Pagination Buttons Start -->
+        <div class="slds-align_absolute-center">         
+            <lightning:button label=""
+                              disabled="{!v.startPage == 0}"  
+                              onclick="{!c.navigation}"
+                              variant="brand"
+                              iconName="utility:back"
+                              name="previous"/>
+            
+            <span class="slds-badge slds-badge_lightest"
+                  style="margin-right: 10px;margin-left: 10px;">
+                <!--Page {!v.currentPage} out of {!v.totalPagesCount}-->
+                <aura:iteration items="{!v.pageList}" var="item">
+                   {!item} &nbsp; <!--{! item &lt; v.totalPagesCount ? ', '  : ''} -->
+                </aura:iteration>
+            </span>
+            
+            <lightning:button label=""
+                              disabled="{!(v.endPage + 1) >= v.totalRecordsCount}" 
+                              onclick="{!c.navigation}"
+                              variant="brand"
+                              iconName="utility:forward"
+                              iconPosition="right"
+                              name="next"/>
+        </div>  
+            <!--  Pagination Buttons End -->
+    </aura:if>
+    <!-- Lightning Data Table to display the related Contacts -->
+    
+    
+    
+    <!-- Lightning Data Table Dynamic -->
+   <!-- <br/><br/>
+    
+    <div style="height: 300px">
+        <lightning:datatable
+            columns="{! v.columns }"
+            data="{! v.data }"
+            keyField="id"
+            errors="{! v.errors }"
+            draftValues="{! v.draftValues }"
+            onsave="{! c.handleSaveEdition }"
+        />
+    </div>-->
+    <!-- Lightning Data Table Dynamic -->
+</aura:component>
