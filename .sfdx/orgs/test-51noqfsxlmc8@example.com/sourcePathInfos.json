@@ -1,0 +1,2177 @@
+[
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549850389398,
+            "changeTime": 1549850389398,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549850389402,
+            "changeTime": 1549850389402,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162689,
+            "changeTime": 1551673162689,
+            "contentHash": "c4dd589944934b12857c046b181bcb0b1a8cf620",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162508,
+            "changeTime": 1551673162508,
+            "contentHash": "db4ca230a878bb7a9ead3386e97471d281b7f632",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162529,
+            "changeTime": 1551673162529,
+            "contentHash": "321ffa812c93779c1c2a6a0e5cab5fb36a035551",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1551673162530,
+            "changeTime": 1551673162530,
+            "contentHash": "133f75774f3242e9792466120089a8705855788f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1551673162520,
+            "changeTime": 1551673162520,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponentController.js",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1551673162524,
+            "changeTime": 1551673162524,
+            "contentHash": "3b8b1dd7b0592130b84c30264a2b02fa7efe5760",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550041214675,
+            "changeTime": 1550041214675,
+            "contentHash": "e52d78da091adbec0234a09c21e5c601b7e29326",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp",
+            "isDirectory": false,
+            "size": 1751,
+            "modifiedTime": 1550041214675,
+            "changeTime": 1550041214675,
+            "contentHash": "86fc04b1ccabd089432eb28824c568add993121d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1549965033167,
+            "changeTime": 1549965033167,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.css",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.css",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1549965033175,
+            "changeTime": 1549965033175,
+            "contentHash": "903f5d4cfdbf7af73e5220eb86d61cb6597e176e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentController.js",
+            "isDirectory": false,
+            "size": 234,
+            "modifiedTime": 1549965033177,
+            "changeTime": 1549965033177,
+            "contentHash": "611a4647d981d7e5c13ea76112cf97788c217001",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentHelper.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentHelper.js",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1549965033173,
+            "changeTime": 1549965033173,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549965033187,
+            "changeTime": 1549965033187,
+            "contentHash": "e97f288c47b41d85a56a3bbd766756f5e09f3915",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app",
+            "isDirectory": false,
+            "size": 85,
+            "modifiedTime": 1549965033188,
+            "changeTime": 1549965033188,
+            "contentHash": "252608fa8b30f6c6b22841bb3cc9e8214a3800f8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1549965033185,
+            "changeTime": 1549965033185,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550216494308,
+            "changeTime": 1550216494308,
+            "contentHash": "d9ec5f5a98c3cd47e236a9dc6c1ac4dabb01f549",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp",
+            "isDirectory": false,
+            "size": 1180,
+            "modifiedTime": 1550216494309,
+            "changeTime": 1550216494309,
+            "contentHash": "6ae5dc380dc212e3f425175c998de5d6621647a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1550216494303,
+            "changeTime": 1550216494303,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponentController.js",
+            "isDirectory": false,
+            "size": 699,
+            "modifiedTime": 1550216494307,
+            "changeTime": 1550216494307,
+            "contentHash": "43568a9a40e3eead71adc005e3f18a82c21a71dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550216494317,
+            "changeTime": 1550216494317,
+            "contentHash": "474d9784729d01b0629df9e9032409a3ed582035",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app",
+            "isDirectory": false,
+            "size": 87,
+            "modifiedTime": 1550216494318,
+            "changeTime": 1550216494318,
+            "contentHash": "49561b599cd57000fe6526d915032cd2e1af9de3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1550216494315,
+            "changeTime": 1550216494315,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162505,
+            "changeTime": 1551673162505,
+            "contentHash": "bf193cb73e8485cb46252ad35bef17bbe20a8079",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1551673162502,
+            "changeTime": 1551673162502,
+            "contentHash": "b545306c6b2e717b899c63a91261e3db94bcc40a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1551673162496,
+            "changeTime": 1551673162496,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponentController.js",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1551673162506,
+            "changeTime": 1551673162506,
+            "contentHash": "3b8b1dd7b0592130b84c30264a2b02fa7efe5760",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162480,
+            "changeTime": 1551673162480,
+            "contentHash": "8efe74b109f5f05e6ad590906d568e503167f905",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp",
+            "isDirectory": false,
+            "size": 2671,
+            "modifiedTime": 1551673162477,
+            "changeTime": 1551673162477,
+            "contentHash": "3d38a4114eeaafc67daaf9ad698cb439f0227691",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1551673162470,
+            "changeTime": 1551673162470,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_ComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_ComponentController.js",
+            "isDirectory": false,
+            "size": 2710,
+            "modifiedTime": 1551673162481,
+            "changeTime": 1551673162481,
+            "contentHash": "e97ba82f8297ad8ec0b6ec7a1309863cd57a1fc9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162438,
+            "changeTime": 1551673162438,
+            "contentHash": "ad6c142a5a8d1aaac325b47b2e7731a069912009",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app",
+            "isDirectory": false,
+            "size": 158,
+            "modifiedTime": 1551673162440,
+            "changeTime": 1551673162440,
+            "contentHash": "46f5b34f64e5ab550403f2ecaeefe0790f658336",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1551673162433,
+            "changeTime": 1551673162433,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\TogglingEvent",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\TogglingEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162457,
+            "changeTime": 1551673162457,
+            "contentHash": "3f8ba5739459a548a3bd35ef6918e710c221f3d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1551673162458,
+            "changeTime": 1551673162458,
+            "contentHash": "db795e2d79fe667f58c1a7a432499af232a0f543",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1551673162453,
+            "changeTime": 1551673162453,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162714,
+            "changeTime": 1551673162714,
+            "contentHash": "cee2c45f93d5e0b8f9af222e1ddbe82be15cd7dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls",
+            "isDirectory": false,
+            "size": 2254,
+            "modifiedTime": 1550662678309,
+            "changeTime": 1550662678309,
+            "contentHash": "b5991137e61ddfbbbfe0ab95296e09c6cd9dfcc3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1550662678305,
+            "changeTime": 1550662678305,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 852,
+            "modifiedTime": 1550041214730,
+            "changeTime": 1550041214730,
+            "contentHash": "21d1967307e4930c9f57b1bcebb665baaf14daf9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1550041214727,
+            "changeTime": 1550041214727,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls",
+            "isDirectory": false,
+            "size": 1149,
+            "modifiedTime": 1550662678321,
+            "changeTime": 1550662678321,
+            "contentHash": "e5a9f72bd91266d691dd29859e8017f1849281ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1550662678317,
+            "changeTime": 1550662678317,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\myClass.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\myClass.cls",
+            "isDirectory": false,
+            "size": 73,
+            "modifiedTime": 1549850389421,
+            "changeTime": 1549850389421,
+            "contentHash": "b0bbdc5bb7d29f3842fcce76ed48473ee894c64c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1549850389427,
+            "changeTime": 1549850389427,
+            "contentHash": "c157dba739305f299e4fee4a139f45e8c247f294",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls",
+            "isDirectory": false,
+            "size": 1322,
+            "modifiedTime": 1550216494327,
+            "changeTime": 1550216494327,
+            "contentHash": "0f45c0d25dc668695b2d5d58d5b225906a9be7ca",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1550216494323,
+            "changeTime": 1550216494323,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls",
+            "isDirectory": false,
+            "size": 162,
+            "modifiedTime": 1551673162715,
+            "changeTime": 1551673162715,
+            "contentHash": "ca52fe8cd6159c9c117a63eaeee993fc55385617",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1551673162708,
+            "changeTime": 1551673162708,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 1885,
+            "modifiedTime": 1549937402727,
+            "changeTime": 1549937402727,
+            "contentHash": "0c30bf6886a1935ba804a694d8bdf8650265f572",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1549937402715,
+            "changeTime": 1549937402715,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 472,
+            "modifiedTime": 1549877403482,
+            "changeTime": 1549877403482,
+            "contentHash": "7ccdee5e16ef58ef169565837f8ce4f548a699cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1549877403482,
+            "changeTime": 1549877403482,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\components",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550662678288,
+            "changeTime": 1550662678288,
+            "contentHash": "a6c90fcb367decf4f49180c1b8529133bb46d8bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component",
+            "isDirectory": false,
+            "size": 2298,
+            "modifiedTime": 1550662678289,
+            "changeTime": 1550662678289,
+            "contentHash": "cd513aa1886e287251ee654a0e9d1cc372f1aad1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1550662678283,
+            "changeTime": 1550662678283,
+            "contentHash": "d0722a7b60dc269c415fa7485f028b549be6ed8c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162700,
+            "changeTime": 1551673162700,
+            "contentHash": "006a7ab7304789f2c7cdf93afd54c79d58c043a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3657,
+            "modifiedTime": 1551673162701,
+            "changeTime": 1551673162701,
+            "contentHash": "8810afbe46bed03db9ab2f14f78cfaa13c795a9f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page1.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1001,
+            "modifiedTime": 1551673162691,
+            "changeTime": 1551673162691,
+            "contentHash": "2984b034a767ea2e87ac9222e5377a9c3da3fd45",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550041214723,
+            "changeTime": 1550041214723,
+            "contentHash": "fd4e3fd223a6a0585f5403be6b1ca26eacd7e666",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9636,
+            "modifiedTime": 1550041214698,
+            "changeTime": 1550041214698,
+            "contentHash": "e1109e3f3b4c85deb6f074c9e84286af2b625f2a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9588,
+            "modifiedTime": 1550041214717,
+            "changeTime": 1550041214717,
+            "contentHash": "fe39a1d5f55c4776aae00e124a6be6cef3862d77",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9636,
+            "modifiedTime": 1550041214708,
+            "changeTime": 1550041214708,
+            "contentHash": "022111bbb04c3cb5c41ad03bb4bca7e69c6a40bc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9588,
+            "modifiedTime": 1550041214724,
+            "changeTime": 1550041214724,
+            "contentHash": "812f64b23ef59938c03de10074f4dce693664cea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9619,
+            "modifiedTime": 1549937402707,
+            "changeTime": 1549937402707,
+            "contentHash": "b1ed05835b0f885cc3074f7a2e3ea1a61b79eb95",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\UserDeactivation__c-User Deactivation Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts\\UserDeactivation__c-User Deactivation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2248,
+            "modifiedTime": 1549877403472,
+            "changeTime": 1549937775972,
+            "contentHash": "06674440b696d046a2209f5bd790fd86371cc351",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162560,
+            "changeTime": 1551673162560,
+            "contentHash": "fac52e6f317933f561139877c907d9ea4c563e8c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550041214686,
+            "changeTime": 1550041214686,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550041214689,
+            "changeTime": 1550041214689,
+            "contentHash": "6a4dc9d27e5c5f7d7d58c99ab93c8b4de64aa0de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account\\fields\\topOpportunity__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account\\fields\\topOpportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1550041214689,
+            "changeTime": 1550041214689,
+            "contentHash": "348bab1df4e1b349c9ce6952cc08481aa4e20975",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162565,
+            "changeTime": 1551673162565,
+            "contentHash": "7c277a4a3fea161827da03d3f2c58591e969e632",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+            "isDirectory": false,
+            "size": 3591,
+            "modifiedTime": 1551673162564,
+            "changeTime": 1551673162564,
+            "contentHash": "6a241b005db671f30f3f78324da6f9ab88ec9006",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551673162611,
+            "changeTime": 1551673162611,
+            "contentHash": "893a6e845dca13a87a136efb4102cb0b00a2a467",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1551673162570,
+            "changeTime": 1551673162570,
+            "contentHash": "1cacb79921be5f60c03389009787e124b2ed4723",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
+            "isDirectory": false,
+            "size": 299,
+            "modifiedTime": 1551673162572,
+            "changeTime": 1551673162572,
+            "contentHash": "65387929308ea837e5d8db448edaa04ce6d19501",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1551673162574,
+            "changeTime": 1551673162574,
+            "contentHash": "bd407ab3418d4c0105635a2e94328ee23ece2c7b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1551673162576,
+            "changeTime": 1551673162576,
+            "contentHash": "fe9266f8deba7e98727818b1c4d4c5a401b661f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1551673162578,
+            "changeTime": 1551673162578,
+            "contentHash": "0151e1eb4b7753644b712a60d1e2e3b0dea3c93e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1551673162579,
+            "changeTime": 1551673162579,
+            "contentHash": "decee9667fd366c60248b76d0ae321d810ff7d82",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1551673162581,
+            "changeTime": 1551673162581,
+            "contentHash": "cb0e24f2f9b2a79bb29753110aa961c26ab2db37",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1551673162583,
+            "changeTime": 1551673162583,
+            "contentHash": "78d195d1a849a917372c92f99133215160bc3e93",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1551673162584,
+            "changeTime": 1551673162584,
+            "contentHash": "533f77dcc799e97eb3dd5958c86d3f24b407d04f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1551673162586,
+            "changeTime": 1551673162586,
+            "contentHash": "acb08c592fd629c17a0ecfb1b9337c924c4b9c17",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 279,
+            "modifiedTime": 1551673162588,
+            "changeTime": 1551673162588,
+            "contentHash": "9bc08ec4947f0bec3fd5569d0fe676bb9318408d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
+            "isDirectory": false,
+            "size": 285,
+            "modifiedTime": 1551673162589,
+            "changeTime": 1551673162589,
+            "contentHash": "21baae67ca402c56c0674251eddd1af83226204f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
+            "isDirectory": false,
+            "size": 280,
+            "modifiedTime": 1551673162591,
+            "changeTime": 1551673162591,
+            "contentHash": "bc7a6a865469734e57ad9a13ae58771692a5385c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
+            "isDirectory": false,
+            "size": 300,
+            "modifiedTime": 1551673162592,
+            "changeTime": 1551673162592,
+            "contentHash": "466828d12b34c82494a38d19b97155a143c0fcd1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 298,
+            "modifiedTime": 1551673162595,
+            "changeTime": 1551673162595,
+            "contentHash": "8bf4dd5f362fa840760f76404520e1aab07d097f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1551673162595,
+            "changeTime": 1551673162595,
+            "contentHash": "6632d3c8d88035305374064b84fc58f43d9bf959",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1551673162597,
+            "changeTime": 1551673162597,
+            "contentHash": "edc14af69ad27904deb957f9b3df3617e58416fa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
+            "isDirectory": false,
+            "size": 300,
+            "modifiedTime": 1551673162598,
+            "changeTime": 1551673162598,
+            "contentHash": "a763bd0d52e5d35afe0c9d4f2f02beeb2ae2cdec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
+            "isDirectory": false,
+            "size": 300,
+            "modifiedTime": 1551673162601,
+            "changeTime": 1551673162601,
+            "contentHash": "a7d63c48480eaae5b549a615ba958f2d5b193454",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1551673162602,
+            "changeTime": 1551673162602,
+            "contentHash": "5d92ab3f6f7b42b9ccc54a1d5df00c4d461172e0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1551673162604,
+            "changeTime": 1551673162604,
+            "contentHash": "ece181df0735ab5b60d17ce0fa34ce0e0bad9655",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1551673162606,
+            "changeTime": 1551673162606,
+            "contentHash": "d73c198c3d9e3912ea6ae1e6aea28f706788d82c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1551673162608,
+            "changeTime": 1551673162608,
+            "contentHash": "8af01561b28ae55a29763cb091f17893c89b57de",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1551673162609,
+            "changeTime": 1551673162609,
+            "contentHash": "70cdca272459306af548bec050c6d2a2fff713e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 298,
+            "modifiedTime": 1551673162612,
+            "changeTime": 1551673162612,
+            "contentHash": "6cba81d43fa842e8b9303ab2a3e8baace3a497c3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549937402638,
+            "changeTime": 1549937402638,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549937402644,
+            "changeTime": 1549937402644,
+            "contentHash": "07eab16c7338bdf042d5e194527269e891e1f4f6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields\\Total_Family_Members__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields\\Total_Family_Members__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 420,
+            "modifiedTime": 1549937402645,
+            "changeTime": 1549937402645,
+            "contentHash": "f4de0f832ba33148c3fb314fbb48b85a4d6d5de6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549877403452,
+            "changeTime": 1549877403452,
+            "contentHash": "6a354212f52b6be60efc8bbdced2e0c37792dd3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549877403451,
+            "changeTime": 1549877403451,
+            "contentHash": "2a745d6c25e56720bfd8af4f183f226682a757fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\ReasonForDeactivation__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\ReasonForDeactivation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1549877403450,
+            "changeTime": 1549877403450,
+            "contentHash": "2dde3cd50cbd3245c7fad1a8bc0d255d7b7026d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\UserToDeactivate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\UserToDeactivate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1549877403451,
+            "changeTime": 1549877403451,
+            "contentHash": "a1426658bf1518136e7ea42a70899203567f1476",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549877403455,
+            "changeTime": 1549877403455,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1549877403455,
+            "changeTime": 1549877403455,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\UserDeactivation__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\UserDeactivation__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2116,
+            "modifiedTime": 1549877403446,
+            "changeTime": 1549877403446,
+            "contentHash": "b2572f2d1606ffc62ade36e018f0c1ce715fcae9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550662678299,
+            "changeTime": 1550662678299,
+            "contentHash": "bbd5936a1f9fe51c663f5973f40cf5aeb8509120",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page",
+            "isDirectory": false,
+            "size": 7057,
+            "modifiedTime": 1550662678299,
+            "changeTime": 1550662678299,
+            "contentHash": "26a868da281e871431c475c45bd218c332481668",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1550662678295,
+            "changeTime": 1550662678295,
+            "contentHash": "3db3086b0cdd000ceae34b2058b7ec5b01bea0c9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\sampleVFPage.page",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\sampleVFPage.page",
+            "isDirectory": false,
+            "size": 26,
+            "modifiedTime": 1549850389439,
+            "changeTime": 1549850389439,
+            "contentHash": "fbb15e120453047636fd3dccea8b5bf617c0bc4c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\sampleVFPage.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\sampleVFPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 295,
+            "modifiedTime": 1549850389446,
+            "changeTime": 1549850389446,
+            "contentHash": "72140425d30530523be817a6e7132af14242adca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550041214774,
+            "changeTime": 1550041214774,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 24561,
+            "modifiedTime": 1551673162790,
+            "changeTime": 1551673162790,
+            "contentHash": "85085a38730b80cfc2ec1228cfa07b620f5153a3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5958,
+            "modifiedTime": 1550041214770,
+            "changeTime": 1550041214770,
+            "contentHash": "87774ef2fadd0800a4b5adde2469ddf2f7bb79e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5950,
+            "modifiedTime": 1550041214775,
+            "changeTime": 1550041214775,
+            "contentHash": "7eb62738166efeddb89a0ac07f49f43be57ca395",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6292,
+            "modifiedTime": 1550041214764,
+            "changeTime": 1550041214764,
+            "contentHash": "337371fa5e55b43e92a4ae45d7028d35ce0f3803",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550216494374,
+            "changeTime": 1550216494374,
+            "contentHash": "906dddc1858814c87e4d6b34067f3695a7669552",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\remoteSiteSettings\\PostalPincode.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\remoteSiteSettings\\PostalPincode.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 258,
+            "modifiedTime": 1550216494374,
+            "changeTime": 1550216494374,
+            "contentHash": "cf9aa91a133ef0c597b51e633a3f786de84f6e3a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550216494291,
+            "changeTime": 1550216494291,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1550216494291,
+            "changeTime": 1550216494291,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550662678251,
+            "changeTime": 1550662678251,
+            "contentHash": "d923218816a9d23be8a4b1f5f7ed6471a2661959",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550662678264,
+            "changeTime": 1550662678264,
+            "contentHash": "b26b3dc1179b5a954f483e57e51d53390c50555b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-1.12.4.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-1.12.4.js",
+            "isDirectory": false,
+            "size": 293430,
+            "modifiedTime": 1550662678257,
+            "changeTime": 1550662678257,
+            "contentHash": "433836da7e015f2eb3fc386817de88b78248f6ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.css",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.css",
+            "isDirectory": false,
+            "size": 35973,
+            "modifiedTime": 1550662678260,
+            "changeTime": 1550662678260,
+            "contentHash": "03135a88e8dbc36020dd453d1e7407ce9a3a2cc2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.js",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.js",
+            "isDirectory": false,
+            "size": 520714,
+            "modifiedTime": 1550662678263,
+            "changeTime": 1550662678263,
+            "contentHash": "75c20acdc6cbc6334fe2b918ab7afeec007f969e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\style.css",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\style.css",
+            "isDirectory": false,
+            "size": 142,
+            "modifiedTime": 1550662678265,
+            "changeTime": 1550662678265,
+            "contentHash": "19d4a1f2834a5be950825bd94894079eb2adb1d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete.resource-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1550662678216,
+            "changeTime": 1550662678216,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549965033146,
+            "changeTime": 1549965033146,
+            "contentHash": "09e871c98fef3b901a775def173e4126aaf73b42",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images\\Images",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images\\Images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549965033150,
+            "changeTime": 1549965033150,
+            "contentHash": "d4abde5d9d9ec96ee4b8d16e3dc55410e6586741",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images\\Images\\trailhead.jpg",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images\\Images\\trailhead.jpg",
+            "isDirectory": false,
+            "size": 19646,
+            "modifiedTime": 1549965033151,
+            "changeTime": 1549965033151,
+            "contentHash": "b60fe5cfb2e0acb9babb94af113af47df9145163",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images.resource-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1549965033126,
+            "changeTime": 1549965033126,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549877403479,
+            "changeTime": 1549877403479,
+            "contentHash": "3815597bb6666eb48890681aff09ba9875783502",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs\\UserDeactivation__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs\\UserDeactivation__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1549877403480,
+            "changeTime": 1549877403480,
+            "contentHash": "679ba1a1946ff4dd756640af97489d28021a69d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550041214738,
+            "changeTime": 1550041214738,
+            "contentHash": "d0f15be6bfe0ddab98a33cf0e00df88080d9185e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger",
+            "isDirectory": false,
+            "size": 586,
+            "modifiedTime": 1549937402753,
+            "changeTime": 1549937402753,
+            "contentHash": "ad77239d304a3fe8c65a3137934bb35262610e16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1549937402741,
+            "changeTime": 1549937402741,
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger",
+            "isDirectory": false,
+            "size": 1120,
+            "modifiedTime": 1550041214738,
+            "changeTime": 1550041214738,
+            "contentHash": "a03f87ace7961bfff10a19b9ea4f79f7c7c5007e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1550041214735,
+            "changeTime": 1550041214735,
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1549877403496,
+            "changeTime": 1549877403496,
+            "contentHash": "9417bb52a706779189132ae46ddbe766f14a1fab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1549877403493,
+            "changeTime": 1549877403493,
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning",
+        {
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549850389451,
+            "changeTime": 1549850389451,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

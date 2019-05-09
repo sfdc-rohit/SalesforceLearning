@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <componentInstances>
+            <componentName>Toggleling_Component</componentName>
+        </componentInstances>
+        <name>main</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentName>ReferComponent</componentName>
+        </componentInstances>
+        <name>rightsidebar</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentName>AccountInfoComponent</componentName>
+        </componentInstances>
+        <name>leftsidebar</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>Case Record Page</masterLabel>
+    <sobjectType>Case</sobjectType>
+    <template>
+        <name>flexipage:recordHomeThreeColTemplateDesktop</name>
+    </template>
+    <type>RecordPage</type>
+</FlexiPage>

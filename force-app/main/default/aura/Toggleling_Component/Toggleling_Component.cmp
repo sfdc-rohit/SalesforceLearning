@@ -1,0 +1,48 @@
+<aura:component controller="ToggelingComponentController" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    <aura:attribute name="caseList" type="Case[]" />
+    <aura:attribute name="currentCaseNumber" type="Integer" default ="1" />
+    <aura:attribute name="currentCase" type="Case" />
+    <aura:attribute name="totalCases" type="Integer"  />
+    <aura:attribute name="caseListLeft" type="Case[]" />
+    
+    <aura:registerEvent name="togglingEvent" type="c:TogglingEvent" />
+    <!-- <div class="" style="margin :50px 0px 0px 100px;">
+        
+    
+        
+    </div>
+    <aura:iteration items="{!v.caseList}" var="index">
+        {!index.Subject}
+    </aura:iteration>-->
+    
+    <div class="slds-grid slds-wrap">
+        <div class="slds-col slds-size_1-of-1 slds-small-size_1-of-6 slds-medium-size_1-of-6 slds-align_absolute-center"
+             style="background:none;">
+            <!--<lightning:icon iconName="utility:chevronleft" style="cursor: pointer;"
+                            class="{!if(v.currentCaseNumber == 1,'slds-hide','slds-show')}" size="small" onclick="{!c.clickLeft}" aura:id="disablebuttonid"/>-->
+            <div style="cursor: pointer;" >
+                <lightning:button variant="brand" label="" iconName="utility:chevronleft" 
+                                  iconPosition="left" onclick="{! c.clickLeft }" aura:id="buttonLeft" />
+            </div>
+        </div>
+        <div class="slds-col slds-size_1-of-1 slds-small-size_4-of-6 slds-medium-size_4-of-6 slds-align_absolute-center"
+             style="background:none;">
+            Job {!v.currentCaseNumber} Of {!v.totalCases} [100] &nbsp;&nbsp;{!v.currentCase.Subject}
+            
+        </div>
+        <div class="slds-col slds-size_1-of-1 slds-small-size_1-of-6 slds-medium-size_1-of-6 slds-align_absolute-center"
+             style="background:none;">
+            <div style="cursor: pointer;" >
+                <lightning:button variant="brand" label="" iconName="utility:chevronright" 
+                                  iconPosition="left" onclick="{! c.clickRight }" aura:id="buttonRight" />
+            </div>
+            <!--<lightning:icon iconName="utility:chevronright" style="cursor: pointer;"
+                            size="small" onclick="{!c.clickRight}" aura:id="right"/>-->
+        </div>
+    </div>
+    
+    <aura:iteration items="{!v.caseList}" var="index">
+        {!index.Subject}<br/>
+    </aura:iteration>
+</aura:component>
