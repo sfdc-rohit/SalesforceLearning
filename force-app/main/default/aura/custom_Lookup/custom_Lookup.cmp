@@ -9,41 +9,31 @@
     <aura:attribute name="Message" type="String" default=""/>
     <aura:attribute name="openModal" type="boolean" default="false" />
     <aura:attribute name="isContact" type="boolean" default="false" />
-    <aura:attribute name="contactList" type="List" />
+    <aura:attribute name="fullContactList" type="List" />
+    <aura:attribute name="contactsToDisplayPerPage" type="Object"/>
     <aura:attribute name="newAccount" type="Account"
                          default="{ 'sobjectType': 'Account',
-                                        'Name': '',
-                                        
+                                        'Name': '',                                        
                                         'Email': '',
-                                        'Phone':''}"/>
-    
-    <aura:attribute name="data" type="Object"/>
+                                        'Phone':''}"/>        
     <aura:attribute name="columns" type="List"/>
-    
-    
-    <!-- pagination -->
-    <aura:attribute name="PaginationList" type="List"/> 
-    <aura:attribute name="selectedCount" type="integer" default="0"
-                    description="selected Records Count"/>
-    
-    <aura:attribute name="startPage" type="Integer" />
-    <aura:attribute name="endPage" type="Integer"/>
-    <aura:attribute name="totalRecordsCount" type="Integer"/>
-    <aura:attribute name="pageSize" type="Integer" default="2"
-                    description="number of records to be display on per page"/>
-    <aura:attribute name="currentPage" type="integer" default="1"/>
-    <aura:attribute name="totalPagesCount" type="integer"/>
-    <aura:attribute name="bNoRecordsFound" type="boolean"/>
-    
+    <!-- pagination New -->
+    <aura:attribute name="showDots" type="boolean" default="true" />
+    <aura:attribute name="dataToShow" type="List" />
     <aura:attribute name="pageList" type="List" />
-    <!-- pagination -->
+    <aura:attribute name="currentPageNumber" type="Integer" default="1" />
+    <aura:attribute name="pageSize" type="Integer" default="4" />
+    <aura:attribute name="totalPages" type="Integer" default="0" />
+    <!-- pagination New -->
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
     
     <!--declare events hendlers-->  
     <aura:handler name="oSelectedRecordEvent" event="c:custom_Lookup_Event" action="{!c.handleComponentEvent}"/>
    
     
-    <!-- https://www.lightningdesignsystem.com/components/lookups/ --> 
+    <!-- 
+			Lightning Lookup Start 
+	--> 
     
     <div onmouseleave="{!c.onblur}" aura:id="searchRes" class="slds-form-element slds-lookup slds-is-close" data-select="single">
         <label class="slds-form-element__label" for="lookup-348">{!v.label}</label>
@@ -92,7 +82,14 @@
         </ul>
     </div>
     
-    <!-- Modal to create New Account Record  -->    
+    <!-- 
+			Lightning Lookup End 
+	-->
+    
+    <!-- 
+		 	Modal to create New Account Record Start  
+	-->
+    
      <aura:if isTrue="{!v.openModal}">
             
             <!--###### MODAL BOX Start######--> 
@@ -158,9 +155,15 @@
             <!--###### MODAL BOX Part END Here ######-->
             
         </aura:if>
-    <!-- Modal to create New Account Record  -->
     
-    <!-- Lightning Data Table to display the related Contacts -->
+    <!-- 
+			Modal to create New Account Record End  
+	-->
+    
+    <!-- 
+			Lightning Data Table to display the related Contacts  Start
+	-->
+    
     <aura:if isTrue="{!v.isContact}">
         <br/><br/>
         <h2 class="slds-section__title slds-theme--shade primaryPaletteBorder test-id__section-header-container">
@@ -186,7 +189,7 @@
                 </tr>
             </thead>
             <tbody>
-                <aura:iteration items="{!v.PaginationList}" var="con">
+                <aura:iteration items="{!v.contactsToDisplayPerPage}" var="con">
                 <tr class="slds-hint-parent">
                     <th data-label="First Name" scope="row">
                         <div class="slds-truncate" title="Cloudhub"><a href="javascript:void(0);" tabindex="-1">{!con.FirstName}</a></div>
@@ -207,6 +210,48 @@
         </table>
         <br/><br/>
         
+        <!-- New Pagination -->
+        <div class="slds-align_absolute-center">
+            <lightning:button label="First" iconName="utility:left" iconPosition="left"
+                              disabled="{! v.currentPageNumber == 1}" onclick="{!c.onFirst}"/>
+            <lightning:button iconName="utility:chevronleft" iconPosition="left"
+                              disabled="{!v.currentPageNumber == 1}" onclick="{!c.onPrev}" />
+            <span class="slds-p-horizontal_x-small">
+            	<a onclick="{!c.processMe}" name="1" class="{! v.currentPageNumber == 1 ? 'selected' : ''}">
+                1
+                </a>
+            </span>
+            <aura:if isTrue="{!v.showDots}">
+                <span class="slds-p-horizontal_xxx-small">
+                    <a> ... </a>
+                </span>
+            </aura:if>
+            <aura:iteration items="{!v.pageList}" var="item">
+            	<span class="slds-p-horizontal_x-small">
+                	<a onclick="{!c.processMe}" name="{!item}" 
+                       class="{! (v.currentPageNumber == item) ? 'selected' : ''}"
+                       >{!item}
+                    </a>
+                </span>
+            </aura:iteration>
+            <aura:if isTrue="{!v.showDots}">
+                <span class="slds-p-horizontal_xxx-small">
+                    <a> ... </a>
+                </span>
+            </aura:if>
+            <span class="slds-p-horizontal_x-small">
+            	<a onclick="{!processMe}" name="{!v.totalPages}" 
+                   class="{! (v.currentPageNumber == v.totalPages)? 'selected' : ''}">
+                {!v.totalPages}
+                </a>
+            </span>
+            <lightning:button iconName="utility:chevronright" iconPosition="right"
+                              disabled="{! v.currentPageNumber == v.totalPages}" onclick="{!c.onNext}" />
+            <lightning:button iconName="utility:left" iconPosition="right" label="Last"
+                              disabled="{! v.currentPageNumber == v.totalPages}" onclick="{!c.onLast}" />
+        </div>
+        <!-- New Pagination -->
+        <br/>
         <!--  Pagination Buttons Start -->
         <div class="slds-align_absolute-center">         
             <lightning:button label=""
@@ -234,7 +279,10 @@
         </div>  
             <!--  Pagination Buttons End -->
     </aura:if>
-    <!-- Lightning Data Table to display the related Contacts -->
+    
+    <!-- 
+			Lightning Data Table to display the related Contacts End 
+	-->
     
     
     

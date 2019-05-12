@@ -35,7 +35,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162689,
+            "modifiedTime": 1557677601937,
             "changeTime": 1551673162689,
             "contentHash": "c4dd589944934b12857c046b181bcb0b1a8cf620",
             "isMetadataFile": false,
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1557395020627,
+            "modifiedTime": 1557677601910,
             "changeTime": 1557395020627,
-            "contentHash": "d2e3391149ebb8ec587a774cdc90c1aa3898c60c"
+            "contentHash": "d2e3391149ebb8ec587a774cdc90c1aa3898c60c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -63,7 +63,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\AccountInfoComponent",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162529,
+            "modifiedTime": 1557677601800,
             "changeTime": 1551673162529,
             "contentHash": "321ffa812c93779c1c2a6a0e5cab5fb36a035551",
             "isMetadataFile": false,
@@ -123,7 +123,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\customLookupResult",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555930138355,
+            "modifiedTime": 1557677601883,
             "changeTime": 1555930138355,
             "contentHash": "ddd4627e8ca4c0feddeedbe002f3df86b0386f87",
             "isMetadataFile": false,
@@ -180,16 +180,14 @@
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1556176077619,
-            "changeTime": 1556176077619,
-            "contentHash": "8e9ff04b12ca755e92cd9df3901c16f94b8ac0e7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1557677619130,
+            "changeTime": 1557677619130,
+            "contentHash": "ea2e333382d18d9d87d81c4cb4cf54e5928874f9"
         }
     ],
     [
@@ -199,10 +197,10 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 14609,
-            "modifiedTime": 1557395020589,
-            "changeTime": 1557395020589,
-            "contentHash": "6cdc94832ed86d9fe56439b6d4f85201de5bb636"
+            "size": 16473,
+            "modifiedTime": 1557677619124,
+            "changeTime": 1557677619124,
+            "contentHash": "6fcd16ef534b9ebf8ee5c0c2cb9689f1d157b597"
         }
     ],
     [
@@ -227,10 +225,10 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_LookupController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 5982,
-            "modifiedTime": 1557395020595,
-            "changeTime": 1557395020595,
-            "contentHash": "12bb32c5f15a06b27261d5bd3ef259cb0d5ed096"
+            "size": 5986,
+            "modifiedTime": 1557677619128,
+            "changeTime": 1557677619128,
+            "contentHash": "c65571bfb2afe4e1fea296b8d2ecb7b3b94884fd"
         }
     ],
     [
@@ -240,10 +238,10 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_LookupHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 6061,
-            "modifiedTime": 1557395020599,
-            "changeTime": 1557395020599,
-            "contentHash": "5fd3911364cc0b8a58671e618e8d7660d1f52ec1"
+            "size": 4027,
+            "modifiedTime": 1557677619130,
+            "changeTime": 1557677619130,
+            "contentHash": "eccbb147e6d5472b9e4fcdc7686a4fb123d8e9ac"
         }
     ],
     [
@@ -252,7 +250,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup_Application",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555930138297,
+            "modifiedTime": 1557677601909,
             "changeTime": 1555930138297,
             "contentHash": "b95c35078ba0d4485b867ccc07c8fb66b4aae898",
             "isMetadataFile": false,
@@ -297,7 +295,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555930138336,
+            "modifiedTime": 1557677601817,
             "changeTime": 1555930138336,
             "contentHash": "b958a341f91120190cc9b872f7484f872bc25446",
             "isMetadataFile": false,
@@ -387,7 +385,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component_Application",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555930138312,
+            "modifiedTime": 1557677601823,
             "changeTime": 1555930138312,
             "contentHash": "53e48859169718f959de369a09e595dbbd87419f",
             "isMetadataFile": false,
@@ -432,7 +430,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup_Event",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555930138283,
+            "modifiedTime": 1557677601916,
             "changeTime": 1555930138283,
             "contentHash": "e7f23633051c91f0a4521274551c7fefcde8a4aa",
             "isMetadataFile": false,
@@ -477,7 +475,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponent",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550041214675,
+            "modifiedTime": 1557400888589,
             "changeTime": 1550041214675,
             "contentHash": "e52d78da091adbec0234a09c21e5c601b7e29326",
             "isMetadataFile": false,
@@ -567,7 +565,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549965033187,
+            "modifiedTime": 1557400888602,
             "changeTime": 1549965033187,
             "contentHash": "e97f288c47b41d85a56a3bbd766756f5e09f3915",
             "isMetadataFile": false,
@@ -612,7 +610,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponent",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550216494308,
+            "modifiedTime": 1557400888621,
             "changeTime": 1550216494308,
             "contentHash": "d9ec5f5a98c3cd47e236a9dc6c1ac4dabb01f549",
             "isMetadataFile": false,
@@ -672,7 +670,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550216494317,
+            "modifiedTime": 1557400888629,
             "changeTime": 1550216494317,
             "contentHash": "474d9784729d01b0629df9e9032409a3ed582035",
             "isMetadataFile": false,
@@ -717,7 +715,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\ReferComponent",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162505,
+            "modifiedTime": 1557677601851,
             "changeTime": 1551673162505,
             "contentHash": "bf193cb73e8485cb46252ad35bef17bbe20a8079",
             "isMetadataFile": false,
@@ -777,7 +775,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162480,
+            "modifiedTime": 1557677601863,
             "changeTime": 1551673162480,
             "contentHash": "8efe74b109f5f05e6ad590906d568e503167f905",
             "isMetadataFile": false,
@@ -837,7 +835,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162438,
+            "modifiedTime": 1557677601868,
             "changeTime": 1551673162438,
             "contentHash": "ad6c142a5a8d1aaac325b47b2e7731a069912009",
             "isMetadataFile": false,
@@ -882,7 +880,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\TogglingEvent",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162457,
+            "modifiedTime": 1557677601873,
             "changeTime": 1551673162457,
             "contentHash": "3f8ba5739459a548a3bd35ef6918e710c221f3d2",
             "isMetadataFile": false,
@@ -924,14 +922,14 @@
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1557395020639,
+            "modifiedTime": 1557677601935,
             "changeTime": 1557395020639,
-            "contentHash": "3853ed47064faaf0796c8756ea2e449a76f88f01"
+            "contentHash": "3853ed47064faaf0796c8756ea2e449a76f88f01",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1240,7 +1238,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\components",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550662678288,
+            "modifiedTime": 1557400888841,
             "changeTime": 1550662678288,
             "contentHash": "a6c90fcb367decf4f49180c1b8529133bb46d8bb",
             "isMetadataFile": false,
@@ -1285,7 +1283,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555930138401,
+            "modifiedTime": 1557677601950,
             "changeTime": 1555930138401,
             "contentHash": "e3204bdbe3f5e11742fa4973eae3777138beada9",
             "isMetadataFile": false,
@@ -1360,7 +1358,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550041214723,
+            "modifiedTime": 1557400888891,
             "changeTime": 1550041214723,
             "contentHash": "fd4e3fd223a6a0585f5403be6b1ca26eacd7e666",
             "isMetadataFile": false,
@@ -1465,7 +1463,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162560,
+            "modifiedTime": 1557677601951,
             "changeTime": 1551673162560,
             "contentHash": "fac52e6f317933f561139877c907d9ea4c563e8c",
             "isMetadataFile": false,
@@ -1480,7 +1478,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550041214686,
+            "modifiedTime": 1557400888900,
             "changeTime": 1550041214686,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
             "isMetadataFile": false,
@@ -1495,7 +1493,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550041214689,
+            "modifiedTime": 1557400888907,
             "changeTime": 1550041214689,
             "contentHash": "6a4dc9d27e5c5f7d7d58c99ab93c8b4de64aa0de",
             "isMetadataFile": false,
@@ -1525,7 +1523,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162565,
+            "modifiedTime": 1557677601961,
             "changeTime": 1551673162565,
             "contentHash": "7c277a4a3fea161827da03d3f2c58591e969e632",
             "isMetadataFile": false,
@@ -1555,7 +1553,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Case\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551673162611,
+            "modifiedTime": 1557677602023,
             "changeTime": 1551673162611,
             "contentHash": "893a6e845dca13a87a136efb4102cb0b00a2a467",
             "isMetadataFile": false,
@@ -1945,7 +1943,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549937402638,
+            "modifiedTime": 1557400889040,
             "changeTime": 1549937402638,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
             "isMetadataFile": false,
@@ -1960,7 +1958,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\Contact\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549937402644,
+            "modifiedTime": 1557400889052,
             "changeTime": 1549937402644,
             "contentHash": "07eab16c7338bdf042d5e194527269e891e1f4f6",
             "isMetadataFile": false,
@@ -1990,7 +1988,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549877403452,
+            "modifiedTime": 1557400889079,
             "changeTime": 1549877403452,
             "contentHash": "6a354212f52b6be60efc8bbdced2e0c37792dd3e",
             "isMetadataFile": false,
@@ -2005,7 +2003,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549877403451,
+            "modifiedTime": 1557400889077,
             "changeTime": 1549877403451,
             "contentHash": "2a745d6c25e56720bfd8af4f183f226682a757fd",
             "isMetadataFile": false,
@@ -2050,7 +2048,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549877403455,
+            "modifiedTime": 1557400889089,
             "changeTime": 1549877403455,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
             "isMetadataFile": false,
@@ -2095,7 +2093,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550662678299,
+            "modifiedTime": 1557677280645,
             "changeTime": 1550662678299,
             "contentHash": "bbd5936a1f9fe51c663f5973f40cf5aeb8509120",
             "isMetadataFile": false,
@@ -2140,7 +2138,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\sampleVFPage.page",
             "isDirectory": false,
             "size": 26,
-            "modifiedTime": 1549850389439,
+            "modifiedTime": 1557677280641,
             "changeTime": 1549850389439,
             "contentHash": "fbb15e120453047636fd3dccea8b5bf617c0bc4c",
             "isMetadataFile": false,
@@ -2155,7 +2153,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\pages\\sampleVFPage.page-meta.xml",
             "isDirectory": false,
             "size": 295,
-            "modifiedTime": 1549850389446,
+            "modifiedTime": 1557677280645,
             "changeTime": 1549850389446,
             "contentHash": "72140425d30530523be817a6e7132af14242adca",
             "isMetadataFile": true,
@@ -2170,7 +2168,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550041214774,
+            "modifiedTime": 1557677602030,
             "changeTime": 1554274030875,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
@@ -2182,14 +2180,14 @@
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 21560,
             "modifiedTime": 1557395020694,
             "changeTime": 1557395020694,
-            "contentHash": "bb7193bcae7e379c9d72e046726b87a3db81f49a"
+            "contentHash": "bb7193bcae7e379c9d72e046726b87a3db81f49a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -2243,7 +2241,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\remoteSiteSettings",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550216494374,
+            "modifiedTime": 1557400889151,
             "changeTime": 1550216494374,
             "contentHash": "906dddc1858814c87e4d6b34067f3695a7669552",
             "isMetadataFile": false,
@@ -2273,7 +2271,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\settings",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550216494291,
+            "modifiedTime": 1557400889162,
             "changeTime": 1550216494291,
             "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
             "isMetadataFile": false,
@@ -2303,7 +2301,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550662678251,
+            "modifiedTime": 1557400889221,
             "changeTime": 1550662678251,
             "contentHash": "d923218816a9d23be8a4b1f5f7ed6471a2661959",
             "isMetadataFile": false,
@@ -2318,7 +2316,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\AutoComplete",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550662678264,
+            "modifiedTime": 1557400889216,
             "changeTime": 1550662678264,
             "contentHash": "b26b3dc1179b5a954f483e57e51d53390c50555b",
             "isMetadataFile": false,
@@ -2408,7 +2406,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549965033146,
+            "modifiedTime": 1557400889246,
             "changeTime": 1549965033146,
             "contentHash": "09e871c98fef3b901a775def173e4126aaf73b42",
             "isMetadataFile": false,
@@ -2423,7 +2421,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images\\Images",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549965033150,
+            "modifiedTime": 1557400889256,
             "changeTime": 1549965033150,
             "contentHash": "d4abde5d9d9ec96ee4b8d16e3dc55410e6586741",
             "isMetadataFile": false,
@@ -2438,7 +2436,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\staticresources\\Images\\Images\\trailhead.jpg",
             "isDirectory": false,
             "size": 19646,
-            "modifiedTime": 1549965033151,
+            "modifiedTime": 1557400889257,
             "changeTime": 1549965033151,
             "contentHash": "b60fe5cfb2e0acb9babb94af113af47df9145163",
             "isMetadataFile": false,
@@ -2468,7 +2466,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549877403479,
+            "modifiedTime": 1557400889269,
             "changeTime": 1549877403479,
             "contentHash": "3815597bb6666eb48890681aff09ba9875783502",
             "isMetadataFile": false,
@@ -2498,7 +2496,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\triggers",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550041214738,
+            "modifiedTime": 1557400889291,
             "changeTime": 1550041214738,
             "contentHash": "d0f15be6bfe0ddab98a33cf0e00df88080d9185e",
             "isMetadataFile": false,
@@ -2603,7 +2601,7 @@
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549850389451,
+            "modifiedTime": 1557677280488,
             "changeTime": 1556932051254,
             "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
             "isMetadataFile": false,
@@ -2615,144 +2613,157 @@
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1557395020609,
             "changeTime": 1557395020609,
-            "contentHash": "44552d5f0ead99a404fe423187718fc248819736"
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2193,
             "modifiedTime": 1557395020612,
             "changeTime": 1557395020612,
-            "contentHash": "65cfd7d7b5ee9c793983a83315c4c078d4a86053"
+            "contentHash": "65cfd7d7b5ee9c793983a83315c4c078d4a86053",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3234,
             "modifiedTime": 1557395020615,
             "changeTime": 1557395020615,
-            "contentHash": "e9705695e9a2e64d17f452572912d522dae5412c"
+            "contentHash": "e9705695e9a2e64d17f452572912d522dae5412c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 36,
             "modifiedTime": 1557395020617,
             "changeTime": 1557395020617,
-            "contentHash": "2c20b6a0323e21580fe70b602582a4c305c157a4"
+            "contentHash": "2c20b6a0323e21580fe70b602582a4c305c157a4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1256,
             "modifiedTime": 1557395020619,
             "changeTime": 1557395020619,
-            "contentHash": "88dedf7df84c8df8429c02df1ed9a2684751b004"
+            "contentHash": "88dedf7df84c8df8429c02df1ed9a2684751b004",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1557395020629,
             "changeTime": 1557395020629,
-            "contentHash": "44552d5f0ead99a404fe423187718fc248819736"
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 89,
             "modifiedTime": 1557395020632,
             "changeTime": 1557395020632,
-            "contentHash": "336621cdcf97c9152b7060fbedd34f6eb8acd0aa"
+            "contentHash": "336621cdcf97c9152b7060fbedd34f6eb8acd0aa",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1557395020635,
             "changeTime": 1557395020635,
-            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 267,
             "modifiedTime": 1557395020640,
             "changeTime": 1557395020640,
-            "contentHash": "548254e6b3273ae3b3cf781a5f394956526c5dc5"
+            "contentHash": "548254e6b3273ae3b3cf781a5f394956526c5dc5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPagination",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1557395020619,
+            "modifiedTime": 1557677601837,
             "changeTime": 1557395020619,
-            "contentHash": "6009514f581258e88613db9540ad10834b4da636"
+            "contentHash": "6009514f581258e88613db9540ad10834b4da636",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1557395020631,
+            "modifiedTime": 1557677601843,
             "changeTime": 1557395020631,
-            "contentHash": "92ecfb6a5acca7825a6266f4d5b18c9d4979047a"
+            "contentHash": "92ecfb6a5acca7825a6266f4d5b18c9d4979047a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rohit.a.gupt\\RohitLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 36,
+            "modifiedTime": 1557677619126,
+            "changeTime": 1557677619126,
+            "contentHash": "2c20b6a0323e21580fe70b602582a4c305c157a4"
         }
     ]
 ]

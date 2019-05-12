@@ -50,97 +50,57 @@
         });
         action.setCallback(this, function(response){
             var state = response.getState();
-          /*  if(state === "SUCCESS"){
-                console.log("successfully Contacts Found");
-                console.log("##  "+JSON.stringify(response.getReturnValue()));
-                component.set("v.contactList", response.getReturnValue());
-                component.set("v.data", response.getReturnValue());
-                component.set("v.isContact", true);
-            }*/
+         
             if (state === "SUCCESS"){
-                var oRes = response.getReturnValue();
-                if(oRes.length > 0){
-                    component.set('v.contactList', oRes);
-                    var pageSize = component.get("v.pageSize");
-                    var totalRecordsList = oRes;
-                    var totalLength = totalRecordsList.length ;
-                    component.set("v.totalRecordsCount", totalLength);
-                    component.set("v.startPage",0);
-                    component.set("v.endPage",pageSize-1);
-                    
-                    var PageList = [];
-                    for(let i=0; i<Math.ceil(totalLength / pageSize); i++){
-                        PageList.push(i+1);
-                       
-                    }
-                     component.set("v.pageList", PageList);
-                    console.log('## '+JSON.stringify(component.get("v.pageList")));
-                    
-                    var PaginationLst = [];
-                    for(var i=0; i < pageSize; i++){
-                        if(component.get("v.contactList").length > i){
-                            PaginationLst.push(oRes[i]);    
-                        } 
-                    }
-                    component.set('v.PaginationList', PaginationLst);
-                    console.log(JSON.stringify(component.get('v.PaginationList')))
-                    component.set("v.selectedCount" , 0);
-                    //use Math.ceil() to Round a number upward to its nearest integer
-                    component.set("v.totalPagesCount", Math.ceil(totalLength / pageSize));
-                    component.set("v.isContact", true);
-                    
-                }else{
-                    // if there is no records then display message
-                    component.set("v.bNoRecordsFound" , true);
-                    component.set("v.isContact", true);
-                } 
+                var result = response.getReturnValue();
+                var totalPages = Math.ceil(result.length/component.get("v.pageSize"));
+                component.set("v.totalPages", totalPages);
+                component.set("v.fullContactList", result);
+                this.generateData(component);
             }
-            else{
-                alert('Error...');
-            }
+            
         });
         $A.enqueueAction(action);
     },
-     // navigate to next pagination record set   
-    next : function(component,event,sObjectList,end,start,pageSize){
-        var Paginationlist = [];
-        var counter = 0;
-        for(var i = end + 1; i < end + pageSize + 1; i++){
-            if(sObjectList.length > i){ 
-             //   if(component.find("selectAllId").get("v.value")){
-             //       Paginationlist.push(sObjectList[i]);
-              //  }else{
-                    Paginationlist.push(sObjectList[i]);  
-               // }
+     
+    generateData : function(component){
+        var data = [];
+       	var currentPage = component.get("v.currentPageNumber");
+        var pageSize = component.get("v.pageSize");
+        var allContacts = component.get("v.fullContactList");
+        
+        for(var x = (currentPage - 1)* pageSize ; x<(currentPage * pageSize); x++){
+            if(allContacts[x]){
+                data.push(allContacts[x]);
             }
-            counter ++ ;
         }
-        start = start + counter;
-        end = end + counter;
-        component.set("v.startPage",start);
-        component.set("v.endPage",end);
-        component.set('v.PaginationList', Paginationlist);
+        component.set("v.contactsToDisplayPerPage",data);
+        this.generatePageList(component, currentPage);
+        component.set("v.isContact", true);
     },
-   // navigate to previous pagination record set   
-    previous : function(component,event,sObjectList,end,start,pageSize){
-        var Paginationlist = [];
-        var counter = 0;
-        for(var i= start-pageSize; i < start ; i++){
-            if(i > -1){
-               // if(component.find("selectAllId").get("v.value")){
-               //     Paginationlist.push(sObjectList[i]);
-               // }else{
-                    Paginationlist.push(sObjectList[i]); 
-                //}
-                counter ++;
-            }else{
-                start++;
-            }
+   
+    generatePageList : function(component, pageNumber){
+        var pageList = [];
+        pageNumber = parseInt(pageNumber);
+        var totalPages = component.get("v.totalPages");
+        if(totalPages > 1 ){
+            if(totalPages <= 10 ){
+                for(var c=2; c<totalPages;c++){
+                    pageList.push(c);
+                }
+              
+            }else {
+                if(pageNumber < 5 ){
+                    pageList.push(2, 3, 4 , 5 , 6);
+                } else {
+                    if( pageNumber > (totalPages - 5)){
+                        pageList.push(totalPages-5, totalPages-4, totalPages-3, totalPages-2, totalPages-1);
+                    } else {
+                        pageList.push(pageNumber-2, pageNumber-1, pageNumber, pageNumber+1, pageNumber+2)
+                    }
+                  }
+              }
         }
-        start = start - counter;
-        end = end - counter;
-        component.set("v.startPage",start);
-        component.set("v.endPage",end);
-        component.set('v.PaginationList', Paginationlist);
+        component.set("v.pageList", pageList);
     },
 })

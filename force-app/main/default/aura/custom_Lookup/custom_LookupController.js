@@ -18,13 +18,13 @@
          var getInputkeyWord = '';
          helper.searchHelper(component,event,getInputkeyWord);
     },
-    onblur : function(component,event,helper){       
+   onblur : function(component,event,helper){       
         component.set("v.listOfSearchRecords", null );
         var forclose = component.find("searchRes");
         $A.util.addClass(forclose, 'slds-is-close');
         $A.util.removeClass(forclose, 'slds-is-open');
     },
-    keyPressController : function(component, event, helper) {
+   keyPressController : function(component, event, helper) {
        // get the search Input keyword   
          var getInputkeyWord = component.get("v.SearchKeyWord");
        // check if getInputKeyWord size id more then 0 then open the lookup result List and 
@@ -45,7 +45,7 @@
 	},
     
   // function for clear the Record Selaction 
-    clear :function(component,event,heplper){
+   clear :function(component,event,heplper){
          var pillTarget = component.find("lookup-pill");
          var lookUpTarget = component.find("lookupField"); 
         
@@ -119,22 +119,27 @@
         console.log(JSON.stringify(draftValues));
     },
     // for pagination 
-     navigation: function(component, event, helper) {
-        var sObjectList = component.get("v.contactList");
-        var end = component.get("v.endPage");
-        var start = component.get("v.startPage");
-        var pageSize = component.get("v.pageSize");
-        var whichBtn = event.getSource().get("v.name");
-        // check if whichBtn value is 'next' then call 'next' helper method
-        if (whichBtn == 'next') {
-            component.set("v.currentPage", component.get("v.currentPage") + 1);
-            helper.next(component, event, sObjectList, end, start, pageSize);
-        }
-        // check if whichBtn value is 'previous' then call 'previous' helper method
-        else if (whichBtn == 'previous') {
-            component.set("v.currentPage", component.get("v.currentPage") - 1);
-            helper.previous(component, event, sObjectList, end, start, pageSize);
-        }
+    onFirst: function(component, event, helper) {
+        component.set("v.currentPageNumber");
+		helper.generateData(component);        
+    },
+    onPrev: function(component, event, helper) {
+		var pageNumber = component.get("v.currentPageNumber");
+		component.set("v.currentPageNumber", pageNumber-1);
+		helper.generateData(component);        
+    },
+    processMe: function(component, event, helper) {
+		var pageNumber = event.target.Name;
+		component.set("v.currentPageNumber",parseInt(pageNumber));
+		helper.generateData(component);        
+    },
+    onNext: function(component, event, helper) {
+        component.set("v.currentPageNumber", component.get("v.currentPageNumber") + 1);
+        helper.generateData(component);
+    },
+    onLast: function(component, event, helper) {
+		component.set("v.currentPageNumber", component.get("v.totalPages"));
+		helper.generateData(component);        
     },
     
 })
