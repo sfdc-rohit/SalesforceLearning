@@ -1,0 +1,40 @@
+.THIS {
+}
+.THIS .tableclass {
+    border: 1px solid black;
+}
+.THIS .vAlign{
+    vertical-align: ;
+}
+.THIS .text-center{
+    text-align: center;
+}
+.THIS .green-background{
+    background:#74efb1;
+    border:1px solid #74efb1; 
+}
+.THIS .red-background{
+    background:#de8f8f;
+    border:1px solid #de8f8f;
+}
+.THIS .square {
+    border:1px solid black;    
+    padding-right:2px;
+    padding-left:2px;
+}
+.THIS .slds-button_neutral{
+    padding-left: 0;
+    padding-right: 0;
+    border: 0;
+    background-color:inherit !important;
+}
+.THIS .slds-button_neutral:hover{
+    background-color:#D3D3D3;
+}
+.THIS .product-table{
+    border:1px solid black;
+}
+.THIS .left-column{
+    width:25%;
+    
+}

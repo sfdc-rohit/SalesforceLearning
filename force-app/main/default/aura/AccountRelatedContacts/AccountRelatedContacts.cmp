@@ -1,0 +1,88 @@
+<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global"
+                controller="AccountRelatedContactsController">
+    
+   <!--<ltng:require scripts="{!$Resource.abc1}" afterScriptsLoaded="{!c.scriptsLoaded}" />-->
+    
+    <!-- Attributes -->    
+    <aura:attribute type="Account[]" name="wearerList"/>
+    <aura:attribute type="Object[]" name="objList" />
+    <aura:attribute type="String" name="length"/>
+    <aura:attribute name="currentViewLimit" type="Integer" default="1" /> 
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    
+    <div class="slds-box" style="">
+        <span style="display:inline-flex;">
+            <lightning:icon iconName="custom:custom14" size="small"/> 
+            <h2 class="slds-text-heading_small slds-m-left_small slds-m-top_xxx-small">
+                <b>Related Wearers ({!v.length})</b>
+            </h2>
+        </span>
+        <br/>
+        <aura:if isTrue="{!v.length != 0}">                                  
+            <lightning:accordion activeSectionName="" allowMultipleSectionsOpen="true">
+                <aura:iteration items="{!v.objList}" var="obj" indexVar="ind">                    
+                    <lightning:accordionSection name="{!ind}" label="{!obj.acc.Name}">
+                        <aura:if isTrue="{!not(empty(obj.contactList))}">
+                            <aura:iteration items="{!obj.contactList}" var="mdl" indexVar="index">
+                                <aura:if isTrue="{! index lt obj.currentViewLimit }">
+                                <div class="slds-m-around_x-small" style="background:#e8e6e6;border-radius:4px;" ><!-- background:#FAFAD2; -->
+                                    <div class="slds-grid slds-wrap">
+                                        <div class="slds-col slds-size_3-of-3 slds-small-size--3-of-3 slds-medium-size--4-of-4 slds-large-size--4-of-4">
+                                            
+                                            <div class="slds-grid">
+                                                <div class="slds-col slds-size_6-of-12">
+                                                    <div class="slds-m-around_x-small">
+                                                        {!index + 1}&nbsp;&nbsp;  LastName: 
+                                                        
+                                                        <b>{!mdl.LastName}
+                                                            
+                                                        </b>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        </div>
+                                        
+                                        
+                                    </div>
+                                </div>
+                                <br/>
+                                
+                                </aura:if>
+                            </aura:iteration>
+                            <aura:if isTrue="{! obj.contactList.length gt v.currentViewLimit }">
+                                
+                                    <aura:if isTrue="{! (obj.viewLimit - obj.currentViewLimit) lt 1 }">
+                                        <a  onclick="{! c.onClickLoadViewCollapse }" name="{!obj.acc.Id}">View less contacts <lightning:icon iconName="utility:chevronup" size="xx-small" /></a>
+                                        
+                                        <aura:set attribute="else">
+                                            <a  onclick="{! c.onClickLoadView }" name="{!obj.acc.Id}">View {! obj.viewLimit - obj.currentViewLimit} more contacts <lightning:icon iconName="utility:chevrondown" size="xx-small" /></a>
+                                        </aura:set>
+                                    </aura:if>
+                                
+                            </aura:if> 
+                            <aura:set attribute="else">
+                                <h2 class="slds-text-heading_small slds-m-left_small slds-m-top_x-small">
+                                    <p>No Contacts Available!</p>
+                                </h2>
+                            </aura:set>
+                        </aura:if>
+                    </lightning:accordionSection>
+                    
+                </aura:iteration>
+            </lightning:accordion>
+            <aura:set attribute="else">               
+                <h2 class="slds-text-heading_small slds-m-left_large slds-m-top_x-small">
+                    <p>No Account Available!</p>
+                </h2>
+            </aura:set> 
+        </aura:if> 
+    </div>
+</aura:component>
