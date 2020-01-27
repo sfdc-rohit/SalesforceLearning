@@ -47,7 +47,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>topOpportunity__c</field>
+                <field>Numbe_of_Open_Tasks__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Number_of_Closed_Tasks__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
