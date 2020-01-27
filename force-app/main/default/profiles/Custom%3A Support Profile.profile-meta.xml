@@ -1,50 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
-        <apexClass>AccountWithTopOpportunityTriggerHandler</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>TotalFamilyMemberTriggerHandler</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>UserDeactivationTriggerHandler</apexClass>
+        <apexClass>CountTaskTriggerHandler</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.topOpportunity__c</field>
+        <editable>false</editable>
+        <field>Account.Numbe_of_Open_Tasks__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Contact.Total_Family_Members__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>UserDeactivation__c.UserToDeactivate__c</field>
+        <editable>false</editable>
+        <field>Account.Number_of_Closed_Tasks__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account %28Support%29 Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-Contact %28Support%29 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>UserDeactivation__c-User Deactivation Layout</layout>
-    </layoutAssignments>
-    <pageAccesses>
-        <apexPage>sampleVFPage</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <tabVisibilities>
-        <tab>UserDeactivation__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
