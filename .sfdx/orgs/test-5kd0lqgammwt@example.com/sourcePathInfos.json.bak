@@ -1,0 +1,3403 @@
+[
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643562,
+            "changeTime": 1579944643562,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643562,
+            "changeTime": 1579944643562,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580736251592,
+            "changeTime": 1580736251592,
+            "contentHash": "ef045229f01a0e9d7ff43bcd2c9cee7ae35aa538",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643622,
+            "changeTime": 1579944643622,
+            "contentHash": "c4941cf9287946c37b037bcb6e3c835f1062a152",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643565,
+            "changeTime": 1579944643565,
+            "contentHash": "321ffa812c93779c1c2a6a0e5cab5fb36a035551",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp",
+            "isDirectory": false,
+            "size": 398,
+            "modifiedTime": 1579944643564,
+            "changeTime": 1579944643564,
+            "contentHash": "fd4eb8119e958c6417e0f7509e4b30500817c96e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643565,
+            "changeTime": 1579944643565,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountInfoComponent\\AccountInfoComponentController.js",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1579944643566,
+            "changeTime": 1579944643566,
+            "contentHash": "fe48b917c6078c29173e13cd4dd7ac894e60836c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643569,
+            "changeTime": 1579944643569,
+            "contentHash": "6afa287c8458ce16e2189479fc9f32b919585439",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContacts.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContacts.cmp",
+            "isDirectory": false,
+            "size": 5249,
+            "modifiedTime": 1579944643567,
+            "changeTime": 1579944643567,
+            "contentHash": "92231f8aeb3dc4606ea5fbaeac442a2b7a64c784",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContacts.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContacts.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643568,
+            "changeTime": 1579944643568,
+            "contentHash": "fd7bd3e51c70c1f8b681df4b4fb2a867b5c3478e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContacts.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContacts.css",
+            "isDirectory": false,
+            "size": 729,
+            "modifiedTime": 1579944643569,
+            "changeTime": 1579944643569,
+            "contentHash": "3612357aa4320e0016ecf08869b3b5b6765d82a1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContactsController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\AccountRelatedContacts\\AccountRelatedContactsController.js",
+            "isDirectory": false,
+            "size": 2225,
+            "modifiedTime": 1579944643570,
+            "changeTime": 1579944643570,
+            "contentHash": "aeecf86faaa605bca9fffcdf2a55486c40fd21d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643614,
+            "changeTime": 1579944643614,
+            "contentHash": "ddd4627e8ca4c0feddeedbe002f3df86b0386f87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult\\customLookupResult.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult\\customLookupResult.cmp",
+            "isDirectory": false,
+            "size": 1351,
+            "modifiedTime": 1579944643612,
+            "changeTime": 1579944643612,
+            "contentHash": "bf5e874acecfaaa3ca8372d56c66f424ac9d902a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult\\customLookupResult.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult\\customLookupResult.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643614,
+            "changeTime": 1579944643614,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult\\customLookupResultController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\customLookupResult\\customLookupResultController.js",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1579944643614,
+            "changeTime": 1579944643614,
+            "contentHash": "e2e9ba29c2c83c8288ee57d224d56ee8fdc0f93d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643618,
+            "changeTime": 1579944643618,
+            "contentHash": "ea2e333382d18d9d87d81c4cb4cf54e5928874f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.cmp",
+            "isDirectory": false,
+            "size": 16775,
+            "modifiedTime": 1579944643616,
+            "changeTime": 1579944643616,
+            "contentHash": "a189e935375c74dddc81b7e2ffd00ceb3a8a6a4b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643617,
+            "changeTime": 1579944643617,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_Lookup.css",
+            "isDirectory": false,
+            "size": 38,
+            "modifiedTime": 1579944643617,
+            "changeTime": 1579944643617,
+            "contentHash": "04d8cdf53d71714f265c4e2d0d4df6790a3d45ee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_LookupController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_LookupController.js",
+            "isDirectory": false,
+            "size": 6130,
+            "modifiedTime": 1579944643617,
+            "changeTime": 1579944643617,
+            "contentHash": "5716a915d70b674dbea297c720309f5002fa5b99",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_LookupHelper.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup\\custom_LookupHelper.js",
+            "isDirectory": false,
+            "size": 4132,
+            "modifiedTime": 1579944643618,
+            "changeTime": 1579944643618,
+            "contentHash": "8fb3880b2bf495530414b37fe4b79f8b61ff85a5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Application",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Application",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643621,
+            "changeTime": 1579944643621,
+            "contentHash": "b95c35078ba0d4485b867ccc07c8fb66b4aae898",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Application\\custom_Lookup_Application.app",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Application\\custom_Lookup_Application.app",
+            "isDirectory": false,
+            "size": 289,
+            "modifiedTime": 1579944643620,
+            "changeTime": 1579944643620,
+            "contentHash": "d5cd54259d2fd212671f29045765ab0a093c788a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Application\\custom_Lookup_Application.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Application\\custom_Lookup_Application.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643621,
+            "changeTime": 1579944643621,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643576,
+            "changeTime": 1579944643576,
+            "contentHash": "b958a341f91120190cc9b872f7484f872bc25446",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_Component.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_Component.cmp",
+            "isDirectory": false,
+            "size": 6658,
+            "modifiedTime": 1579944643571,
+            "changeTime": 1579944643571,
+            "contentHash": "9037aadabe1eba8fb7708ddbe98a6ff1c8d6f578",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_Component.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_Component.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643572,
+            "changeTime": 1579944643572,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_Component.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_Component.css",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1579944643574,
+            "changeTime": 1579944643574,
+            "contentHash": "ee103a7278a717c8abec90be9ed39954c8501d2e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_ComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_ComponentController.js",
+            "isDirectory": false,
+            "size": 2153,
+            "modifiedTime": 1579944643575,
+            "changeTime": 1579944643575,
+            "contentHash": "b76f75e7e6702cdf40785d1bf793470d9cf9aa99",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_ComponentHelper.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component\\Custom_Lookup_ComponentHelper.js",
+            "isDirectory": false,
+            "size": 2128,
+            "modifiedTime": 1579944643576,
+            "changeTime": 1579944643576,
+            "contentHash": "37b54b03111efa57f55ed8016826d7b11ecea685",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component_Application",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component_Application",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643579,
+            "changeTime": 1579944643579,
+            "contentHash": "53e48859169718f959de369a09e595dbbd87419f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component_Application\\Custom_Lookup_Component_Application.app",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component_Application\\Custom_Lookup_Component_Application.app",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1579944643578,
+            "changeTime": 1579944643578,
+            "contentHash": "a96bbc09176561c4d77fb885107063a3d5fd6e25",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component_Application\\Custom_Lookup_Component_Application.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Custom_Lookup_Component_Application\\Custom_Lookup_Component_Application.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643579,
+            "changeTime": 1579944643579,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Event",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Event",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643624,
+            "changeTime": 1579944643624,
+            "contentHash": "e7f23633051c91f0a4521274551c7fefcde8a4aa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Event\\custom_Lookup_Event.evt",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Event\\custom_Lookup_Event.evt",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1579944643623,
+            "changeTime": 1579944643623,
+            "contentHash": "89cb63bd82c23940c56b7498520c4eb971d579ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Event\\custom_Lookup_Event.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\custom_Lookup_Event\\custom_Lookup_Event.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643624,
+            "changeTime": 1579944643624,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643584,
+            "changeTime": 1579944643584,
+            "contentHash": "6009514f581258e88613db9540ad10834b4da636",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp",
+            "isDirectory": false,
+            "size": 3293,
+            "modifiedTime": 1579944643581,
+            "changeTime": 1579944643581,
+            "contentHash": "8df14c86940b7544a792a167242640058aa986e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643582,
+            "changeTime": 1579944643582,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPagination.css",
+            "isDirectory": false,
+            "size": 38,
+            "modifiedTime": 1579944643582,
+            "changeTime": 1579944643582,
+            "contentHash": "04d8cdf53d71714f265c4e2d0d4df6790a3d45ee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationController.js",
+            "isDirectory": false,
+            "size": 1287,
+            "modifiedTime": 1579944643583,
+            "changeTime": 1579944643583,
+            "contentHash": "25387cf91c0d1ec77d57fb87b68dc16dd3767a70",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationHelper.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPagination\\LightningPaginationHelper.js",
+            "isDirectory": false,
+            "size": 2251,
+            "modifiedTime": 1579944643584,
+            "changeTime": 1579944643584,
+            "contentHash": "5ef378519b384c0ee45fb40e8e2523778db0ed3b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643586,
+            "changeTime": 1579944643586,
+            "contentHash": "92ecfb6a5acca7825a6266f4d5b18c9d4979047a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app",
+            "isDirectory": false,
+            "size": 91,
+            "modifiedTime": 1579944643585,
+            "changeTime": 1579944643585,
+            "contentHash": "b0b3dfd5c426135bafe6d0da62f3503a56dd87bf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LightningPaginationApplication\\LightningPaginationApplication.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643586,
+            "changeTime": 1579944643586,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643591,
+            "changeTime": 1579944643591,
+            "contentHash": "e52d78da091adbec0234a09c21e5c601b7e29326",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp",
+            "isDirectory": false,
+            "size": 1783,
+            "modifiedTime": 1579944643587,
+            "changeTime": 1579944643587,
+            "contentHash": "cd21de174b1c494a4418df57d426773e5008b51a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643588,
+            "changeTime": 1579944643588,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponent.css",
+            "isDirectory": false,
+            "size": 345,
+            "modifiedTime": 1579944643589,
+            "changeTime": 1579944643589,
+            "contentHash": "8ac2790464457edfaf1c22fe1e1381d730566ddb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentController.js",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1579944643591,
+            "changeTime": 1579944643591,
+            "contentHash": "92c1cfca615f293a84d021153b847348a31caca9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentHelper.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponent\\LoginComponentHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1579944643592,
+            "changeTime": 1579944643592,
+            "contentHash": "d0b817b1ed38bbf663e8e0e2f23331837cfca3a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643594,
+            "changeTime": 1579944643594,
+            "contentHash": "e97f288c47b41d85a56a3bbd766756f5e09f3915",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app",
+            "isDirectory": false,
+            "size": 87,
+            "modifiedTime": 1579944643593,
+            "changeTime": 1579944643593,
+            "contentHash": "b7bce4e87bafcb1b3388ce9785c4b36578da36b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\LoginComponentAppliction\\LoginComponentAppliction.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643594,
+            "changeTime": 1579944643594,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643597,
+            "changeTime": 1579944643597,
+            "contentHash": "d9ec5f5a98c3cd47e236a9dc6c1ac4dabb01f549",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp",
+            "isDirectory": false,
+            "size": 1208,
+            "modifiedTime": 1579944643595,
+            "changeTime": 1579944643595,
+            "contentHash": "7dc7dae9127b9b7b7f9d0f62bae4e8c82b7807c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643596,
+            "changeTime": 1579944643596,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponent\\PincodeComponentController.js",
+            "isDirectory": false,
+            "size": 717,
+            "modifiedTime": 1579944643597,
+            "changeTime": 1579944643597,
+            "contentHash": "3c8e1cdcddf760fa628e848e79efdc83fd71e55f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643599,
+            "changeTime": 1579944643599,
+            "contentHash": "474d9784729d01b0629df9e9032409a3ed582035",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app",
+            "isDirectory": false,
+            "size": 89,
+            "modifiedTime": 1579944643598,
+            "changeTime": 1579944643598,
+            "contentHash": "b543acd9f2355a241d11decca23845273312cf6a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\PincodeComponentApplication\\PincodeComponentApplication.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643599,
+            "changeTime": 1579944643599,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643602,
+            "changeTime": 1579944643602,
+            "contentHash": "bf193cb73e8485cb46252ad35bef17bbe20a8079",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1579944643600,
+            "changeTime": 1579944643600,
+            "contentHash": "2302acfb4db7f9fa9a118521a52b242fe84bf788",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643601,
+            "changeTime": 1579944643601,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\ReferComponent\\ReferComponentController.js",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1579944643602,
+            "changeTime": 1579944643602,
+            "contentHash": "fe48b917c6078c29173e13cd4dd7ac894e60836c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643605,
+            "changeTime": 1579944643605,
+            "contentHash": "8efe74b109f5f05e6ad590906d568e503167f905",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp",
+            "isDirectory": false,
+            "size": 2718,
+            "modifiedTime": 1579944643603,
+            "changeTime": 1579944643603,
+            "contentHash": "ce3cd5db612d7d7e062a128831138644da847f03",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_Component.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643604,
+            "changeTime": 1579944643604,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_ComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component\\Toggleling_ComponentController.js",
+            "isDirectory": false,
+            "size": 2773,
+            "modifiedTime": 1579944643605,
+            "changeTime": 1579944643605,
+            "contentHash": "e23918118acd8a2e170aa6eb8294bc0ed3f07b2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643609,
+            "changeTime": 1579944643609,
+            "contentHash": "ad6c142a5a8d1aaac325b47b2e7731a069912009",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app",
+            "isDirectory": false,
+            "size": 162,
+            "modifiedTime": 1579944643607,
+            "changeTime": 1579944643607,
+            "contentHash": "401936314fa1dce4336851812484d15dfceb57a6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\Toggleling_Component_Application\\Toggleling_Component_Application.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643609,
+            "changeTime": 1579944643609,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\TogglingEvent",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\TogglingEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643611,
+            "changeTime": 1579944643611,
+            "contentHash": "3f8ba5739459a548a3bd35ef6918e710c221f3d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1579944643610,
+            "changeTime": 1579944643610,
+            "contentHash": "1de293c62053325e9283357380789c79ada7b6f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\aura\\TogglingEvent\\TogglingEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1579944643611,
+            "changeTime": 1579944643611,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580146564479,
+            "changeTime": 1580146564479,
+            "contentHash": "f4d24950d2d46b0164eeae87e9b43204f4aa89c7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls",
+            "isDirectory": false,
+            "size": 2309,
+            "modifiedTime": 1579944643626,
+            "changeTime": 1579944643626,
+            "contentHash": "3c06718ead1d8ad397b080999db7a2ff0da7cc12",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContacts.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643627,
+            "changeTime": 1579944643627,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContactsController.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContactsController.cls",
+            "isDirectory": false,
+            "size": 813,
+            "modifiedTime": 1579944643628,
+            "changeTime": 1579944643628,
+            "contentHash": "ae805e4432b214249d930f588fb3574dd3e16a75",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContactsController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountRelatedContactsController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643628,
+            "changeTime": 1579944643628,
+            "contentHash": "28f7346530a48fd24372c2bfd8924a042e1cca16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 872,
+            "modifiedTime": 1579944643629,
+            "changeTime": 1579944643629,
+            "contentHash": "6ba1fcd7d98411b567dfbf4cca2c3dd0d3505277",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AccountWithTopOpportunityTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643630,
+            "changeTime": 1579944643630,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls",
+            "isDirectory": false,
+            "size": 1179,
+            "modifiedTime": 1579944643630,
+            "changeTime": 1579944643630,
+            "contentHash": "10ea4acd8835fe32dd734cde13a94cd7e4e1575c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\AutoCompleteComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643631,
+            "changeTime": 1579944643631,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CustomLookupController.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CustomLookupController.cls",
+            "isDirectory": false,
+            "size": 1381,
+            "modifiedTime": 1579944643632,
+            "changeTime": 1579944643632,
+            "contentHash": "589a96ea6b954586741fd5ef53ebf0f3961e0535",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CustomLookupController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CustomLookupController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643633,
+            "changeTime": 1579944643633,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\Custom_Lookup_Controller.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\Custom_Lookup_Controller.cls",
+            "isDirectory": false,
+            "size": 1211,
+            "modifiedTime": 1579944643633,
+            "changeTime": 1579944643633,
+            "contentHash": "20d1725ec237facde5ed32f5ae6ae9923c8e596b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\Custom_Lookup_Controller.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\Custom_Lookup_Controller.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643634,
+            "changeTime": 1579944643634,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1579944643634,
+            "changeTime": 1579944643634,
+            "contentHash": "f6201247c352151d9c31d66e32c59816ee93fd28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\LightningPaginationController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643635,
+            "changeTime": 1579944643635,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\myClass.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\myClass.cls",
+            "isDirectory": false,
+            "size": 73,
+            "modifiedTime": 1579944643645,
+            "changeTime": 1579944643645,
+            "contentHash": "b0bbdc5bb7d29f3842fcce76ed48473ee894c64c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1579944643645,
+            "changeTime": 1579944643645,
+            "contentHash": "c157dba739305f299e4fee4a139f45e8c247f294",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls",
+            "isDirectory": false,
+            "size": 1356,
+            "modifiedTime": 1579944643636,
+            "changeTime": 1579944643636,
+            "contentHash": "b2ed6263cb30705e147310fb41d686e5a0c03680",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\PincodeIntegrationClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643637,
+            "changeTime": 1579944643637,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls",
+            "isDirectory": false,
+            "size": 167,
+            "modifiedTime": 1579944643637,
+            "changeTime": 1579944643637,
+            "contentHash": "10c75b4053b22abe6c52525b3ab924533e80a963",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\ToggelingComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643638,
+            "changeTime": 1579944643638,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 1927,
+            "modifiedTime": 1579944643639,
+            "changeTime": 1579944643639,
+            "contentHash": "eb2411c84703b1017c144e56a82591a5432c7a69",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\TotalFamilyMemberTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643640,
+            "changeTime": 1579944643640,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UpdateUserNameTrigger.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UpdateUserNameTrigger.cls",
+            "isDirectory": false,
+            "size": 848,
+            "modifiedTime": 1579944643641,
+            "changeTime": 1579944643641,
+            "contentHash": "be0b0dcb8fe27398b26cfe65fc0242b824e186d6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UpdateUserNameTrigger.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UpdateUserNameTrigger.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643642,
+            "changeTime": 1579944643642,
+            "contentHash": "28f7346530a48fd24372c2bfd8924a042e1cca16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 486,
+            "modifiedTime": 1579944643643,
+            "changeTime": 1579944643643,
+            "contentHash": "d386f25bf9d226bd8319acd96be900af6cc09855",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\UserDeactivationTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579944643644,
+            "changeTime": 1579944643644,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\components",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643647,
+            "changeTime": 1579944643647,
+            "contentHash": "a6c90fcb367decf4f49180c1b8529133bb46d8bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component",
+            "isDirectory": false,
+            "size": 2355,
+            "modifiedTime": 1579944643646,
+            "changeTime": 1579944643646,
+            "contentHash": "184b8e224934d7828298fcaed4bc164482bcaea8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\components\\AutoCompleteComponent.component-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1579944643647,
+            "changeTime": 1579944643647,
+            "contentHash": "a375e74f38c69b1e72a052f33ab4f9887d8ff2c5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\customMetadata",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643648,
+            "changeTime": 1579944643648,
+            "contentHash": "0e1d461642d6721ebe85545a1b50d621c583738a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\customMetadata\\StatesCitiesPincode.UP.md-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\customMetadata\\StatesCitiesPincode.UP.md-meta.xml",
+            "isDirectory": false,
+            "size": 624,
+            "modifiedTime": 1579944643649,
+            "changeTime": 1579944643649,
+            "contentHash": "e9e9f9b299e31ab3a7fbfc3bb02d4ab231810954",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643652,
+            "changeTime": 1579944643652,
+            "contentHash": "e3204bdbe3f5e11742fa4973eae3777138beada9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6939,
+            "modifiedTime": 1579944643650,
+            "changeTime": 1579944643650,
+            "contentHash": "0d8a048a1dba53f3d04386cd85272dea981a8739",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6921,
+            "modifiedTime": 1579944643651,
+            "changeTime": 1579944643651,
+            "contentHash": "bf67bac8dbfdc43e6134000bd06905df66d6c242",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3757,
+            "modifiedTime": 1579944643652,
+            "changeTime": 1579944643652,
+            "contentHash": "f3d124d5ed526a2c043e8e502f93f3cd7a1ac08d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page1.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flexipages\\Case_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1031,
+            "modifiedTime": 1579944643652,
+            "changeTime": 1579944643652,
+            "contentHash": "caf50ed0cf9ec6b554ca4211a500e1f238fbf02b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flows",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643654,
+            "changeTime": 1579944643654,
+            "contentHash": "f1f6ad93f328f2094ff2e8fc83f1c443a6599f33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flows\\Update_Account_with_Pincode.flow-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flows\\Update_Account_with_Pincode.flow-meta.xml",
+            "isDirectory": false,
+            "size": 4415,
+            "modifiedTime": 1579944643654,
+            "changeTime": 1579944643654,
+            "contentHash": "97afe9f62042bb3fbdac8d722ba2259ea95f726e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flows\\update_Record_with_Postcode.flow-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\flows\\update_Record_with_Postcode.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9111,
+            "modifiedTime": 1579944643654,
+            "changeTime": 1579944643654,
+            "contentHash": "55ef0e6def5c29fb6a6853d91729cecec996b7d2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643663,
+            "changeTime": 1579944643663,
+            "contentHash": "792628fa2ca4e96bfd4455d572651a767e1d6ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9793,
+            "modifiedTime": 1580146564408,
+            "changeTime": 1580146564408,
+            "contentHash": "765aeb21dfaad6625cd5e39bcabffb5c2da08e50",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9745,
+            "modifiedTime": 1580146564396,
+            "changeTime": 1580146564396,
+            "contentHash": "15143abc447d1e6d5a06413f71aa6cc734a0796a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9793,
+            "modifiedTime": 1580146564444,
+            "changeTime": 1580146564444,
+            "contentHash": "d23a865cb1c2dca0714aa8ddb1cc66bb8b019a8c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9745,
+            "modifiedTime": 1580146564425,
+            "changeTime": 1580146564425,
+            "contentHash": "edab284185cb93d3ace4362c386ba148f2c1f4d7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\City__c-City Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\City__c-City Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2706,
+            "modifiedTime": 1579944643660,
+            "changeTime": 1579944643660,
+            "contentHash": "fd003408d63f57bc499d8efc59cdd7fffad1f4b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9884,
+            "modifiedTime": 1579944643662,
+            "changeTime": 1579944643662,
+            "contentHash": "fd2ed047268cb5c7188a18771924f31e43497f9c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\StatesCitiesPincode__mdt-StatesCitiesPincode Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\StatesCitiesPincode__mdt-StatesCitiesPincode Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2678,
+            "modifiedTime": 1579944643662,
+            "changeTime": 1579944643662,
+            "contentHash": "99eddf71a1f7c134f0f0412a83cf3bba979e0665",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\UserDeactivation__c-User Deactivation Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\layouts\\UserDeactivation__c-User Deactivation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2311,
+            "modifiedTime": 1579944643663,
+            "changeTime": 1579944643663,
+            "contentHash": "b71a59d6615c645cfddef2557e46a7b8b8531eae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643700,
+            "changeTime": 1579944643700,
+            "contentHash": "e66eca321eb7da5cd86f2cb9cb8ae36f5fed675b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643665,
+            "changeTime": 1579944643665,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580146564372,
+            "changeTime": 1580146564372,
+            "contentHash": "5d5d827085e0996cba109053a745c9684470257e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\Old_Owner_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\Old_Owner_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1579944643665,
+            "changeTime": 1579944643665,
+            "contentHash": "6afdd9c333ebf88d13646c7d5a4357eff4d26eb7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\topOpportunity__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\topOpportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 538,
+            "modifiedTime": 1579944643666,
+            "changeTime": 1579944643666,
+            "contentHash": "682929dc8e30ed980b005436879790668f06c012",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643668,
+            "changeTime": 1579944643668,
+            "contentHash": "7c277a4a3fea161827da03d3f2c58591e969e632",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+            "isDirectory": false,
+            "size": 3674,
+            "modifiedTime": 1579944643667,
+            "changeTime": 1579944643667,
+            "contentHash": "4d378ac025b9db7ec616909fea1e9fdb2021123e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643687,
+            "changeTime": 1579944643687,
+            "contentHash": "893a6e845dca13a87a136efb4102cb0b00a2a467",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 310,
+            "modifiedTime": 1579944643668,
+            "changeTime": 1579944643668,
+            "contentHash": "b5fb5da2b9b99e26ea6fc3174aabe2426413a1fd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1579944643669,
+            "changeTime": 1579944643669,
+            "contentHash": "808f5368cd4718f771514459b2d1cd2d2806ff69",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
+            "isDirectory": false,
+            "size": 316,
+            "modifiedTime": 1579944643670,
+            "changeTime": 1579944643670,
+            "contentHash": "12cf2c6e7fd85e066fa060788e55f0f6b0d42ce6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1579944643670,
+            "changeTime": 1579944643670,
+            "contentHash": "c6d97fea897b55550aef477638b381a1f54d4377",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1579944643671,
+            "changeTime": 1579944643671,
+            "contentHash": "50e004f872998cade0269b44028c432b7550628d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1579944643672,
+            "changeTime": 1579944643672,
+            "contentHash": "ffe04dbebb794d6c79cfc7f62ab6b7ba1848d50d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1579944643673,
+            "changeTime": 1579944643673,
+            "contentHash": "11ed94f741b77fcf3595c16cc489090c1c84a968",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
+            "isDirectory": false,
+            "size": 309,
+            "modifiedTime": 1579944643674,
+            "changeTime": 1579944643674,
+            "contentHash": "fca4b8d1763ea81a1c11775c196b5ee94595c5d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1579944643675,
+            "changeTime": 1579944643675,
+            "contentHash": "17bac691696b0593e170796a7656b600689e6fc8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1579944643676,
+            "changeTime": 1579944643676,
+            "contentHash": "095aacbc202a3f2929b07ef22c41a22ce040a739",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1579944643676,
+            "changeTime": 1579944643676,
+            "contentHash": "d83d637bc016d593507a2c0321dd718af50308d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1579944643677,
+            "changeTime": 1579944643677,
+            "contentHash": "ff228af33450651b311e6963c10cc9b5d020efd8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
+            "isDirectory": false,
+            "size": 287,
+            "modifiedTime": 1579944643678,
+            "changeTime": 1579944643678,
+            "contentHash": "daceaa3282623eac27f9b13d0c8e348502ed9726",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1579944643679,
+            "changeTime": 1579944643679,
+            "contentHash": "2263c0c041f0ec7a234a0ac7f7484bdd7a825686",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 306,
+            "modifiedTime": 1579944643679,
+            "changeTime": 1579944643679,
+            "contentHash": "8fbeb1bf91711fe9ee4879950a9cda003b106a8d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "size": 309,
+            "modifiedTime": 1579944643680,
+            "changeTime": 1579944643680,
+            "contentHash": "346fa109b51dd497fb02d6aa0226676dbd2b7840",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
+            "isDirectory": false,
+            "size": 309,
+            "modifiedTime": 1579944643681,
+            "changeTime": 1579944643681,
+            "contentHash": "bd0acd5f0d7fc3c7e54f96c0c0914e1492d2fe9a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1579944643681,
+            "changeTime": 1579944643681,
+            "contentHash": "9954ff61cfda599343395fae0f052e9a84cefdda",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1579944643682,
+            "changeTime": 1579944643682,
+            "contentHash": "691b13656da5bac10719e97d8698094b27560728",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
+            "isDirectory": false,
+            "size": 282,
+            "modifiedTime": 1579944643683,
+            "changeTime": 1579944643683,
+            "contentHash": "f81bf4315bf5557dbe3b172350bc788bb4af01e3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1579944643683,
+            "changeTime": 1579944643683,
+            "contentHash": "7b742b68b58f29400e56c552f86b98eb5d04ad0c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1579944643684,
+            "changeTime": 1579944643684,
+            "contentHash": "6f82d84137f0d83ace7d506dbacd5318f60eee59",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1579944643685,
+            "changeTime": 1579944643685,
+            "contentHash": "2a7d91596674b2543d02310ce34da04489046470",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1579944643685,
+            "changeTime": 1579944643685,
+            "contentHash": "80ca50e6d41df313fd8b39ec70fe5fcc18b00c51",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 306,
+            "modifiedTime": 1579944643687,
+            "changeTime": 1579944643687,
+            "contentHash": "7b07ecbbd9e14c1cfa17a9bfe69cfb5bcde4b178",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643693,
+            "changeTime": 1579944643693,
+            "contentHash": "55f2d3950ef333b5541f7b945901adb8d48b2041",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\City__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\City__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2075,
+            "modifiedTime": 1579944643688,
+            "changeTime": 1579944643688,
+            "contentHash": "10b0c2facdb47f04a53436f04bd42f9aab813b0b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643692,
+            "changeTime": 1579944643692,
+            "contentHash": "57b8ae494bda2b507274ca227eed22c536fa8df4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields\\City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 365,
+            "modifiedTime": 1579944643690,
+            "changeTime": 1579944643690,
+            "contentHash": "6718fe84ed4ccda39f3db3a4abb2ed6b9870fa46",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields\\Pincode__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields\\Pincode__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 371,
+            "modifiedTime": 1579944643691,
+            "changeTime": 1579944643691,
+            "contentHash": "a3791895d4b3333bb21dd776484c8361c7907de5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 367,
+            "modifiedTime": 1579944643693,
+            "changeTime": 1579944643693,
+            "contentHash": "d950901e8b08286cb1d3a4bcd5902698b2917943",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643694,
+            "changeTime": 1579944643694,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\City__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1579944643694,
+            "changeTime": 1579944643694,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643695,
+            "changeTime": 1579944643695,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643696,
+            "changeTime": 1579944643696,
+            "contentHash": "07eab16c7338bdf042d5e194527269e891e1f4f6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Contact\\fields\\Total_Family_Members__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Contact\\fields\\Total_Family_Members__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1579944643696,
+            "changeTime": 1579944643696,
+            "contentHash": "9e6cefbfe8f52b861901700cd601daa69ae8de06",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643697,
+            "changeTime": 1579944643697,
+            "contentHash": "0943eb74eb8e9013d91a9b7fd670fd712bc64377",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643699,
+            "changeTime": 1579944643699,
+            "contentHash": "57b8ae494bda2b507274ca227eed22c536fa8df4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields\\City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1579944643698,
+            "changeTime": 1579944643698,
+            "contentHash": "2481fb06be7423967a2f92680f21b77d1ee457f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields\\Pincode__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields\\Pincode__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1579944643699,
+            "changeTime": 1579944643699,
+            "contentHash": "fa2c17b48bb35cf7fe787032dc365addae819b50",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1579944643700,
+            "changeTime": 1579944643700,
+            "contentHash": "0b7fee653cbf3237d49996bc7e92a308879fb4ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\StatesCitiesPincode__mdt.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\StatesCitiesPincode__mdt\\StatesCitiesPincode__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1579944643697,
+            "changeTime": 1579944643697,
+            "contentHash": "83762a41952e341fc92a56e368ac7ea5553c42ec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643703,
+            "changeTime": 1579944643703,
+            "contentHash": "6a354212f52b6be60efc8bbdced2e0c37792dd3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643703,
+            "changeTime": 1579944643703,
+            "contentHash": "2a745d6c25e56720bfd8af4f183f226682a757fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\ReasonForDeactivation__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\ReasonForDeactivation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1579944643702,
+            "changeTime": 1579944643702,
+            "contentHash": "0d31f1bed139d80eb7b492e59f6dc0570a2b0a0d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\UserToDeactivate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\fields\\UserToDeactivate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 487,
+            "modifiedTime": 1579944643703,
+            "changeTime": 1579944643703,
+            "contentHash": "addb67603517a86eb20bf3dd0b87b7718028d2ed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643704,
+            "changeTime": 1579944643704,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1579944643704,
+            "changeTime": 1579944643704,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\UserDeactivation__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\UserDeactivation__c\\UserDeactivation__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2181,
+            "modifiedTime": 1579944643701,
+            "changeTime": 1579944643701,
+            "contentHash": "98c5c378ecceb9b6c241c024739da3debcb8be63",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643707,
+            "changeTime": 1579944643707,
+            "contentHash": "4532eee4ad42c666c7ddd53889fd67d2e43ed26a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page",
+            "isDirectory": false,
+            "size": 7201,
+            "modifiedTime": 1579944643706,
+            "changeTime": 1579944643706,
+            "contentHash": "bd19d508d2b2827b7b55a969495e7853b290a517",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\pages\\AccountRelatedContactsPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 309,
+            "modifiedTime": 1579944643707,
+            "changeTime": 1579944643707,
+            "contentHash": "92ad13ed50d88e214d7383fdd7cb0b1261e698ab",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643711,
+            "changeTime": 1579944643711,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 20111,
+            "modifiedTime": 1580146564541,
+            "changeTime": 1580146564541,
+            "contentHash": "237c215c37ad25516c2d6c50722cc7842020e4b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5027,
+            "modifiedTime": 1580146564507,
+            "changeTime": 1580146564507,
+            "contentHash": "05239cfd6f2219c73c83d575429c3e17ebac0f9b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5023,
+            "modifiedTime": 1580146564515,
+            "changeTime": 1580146564515,
+            "contentHash": "67e79e7eab88f0e6f1746e7d29d59e67f94acdbd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5363,
+            "modifiedTime": 1580146564548,
+            "changeTime": 1580146564548,
+            "contentHash": "862dfd7752b8ec6343cd5f374c2030e2c2096d52",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643713,
+            "changeTime": 1579944643713,
+            "contentHash": "906dddc1858814c87e4d6b34067f3695a7669552",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\remoteSiteSettings\\PostalPincode.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\remoteSiteSettings\\PostalPincode.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1579944643713,
+            "changeTime": 1579944643713,
+            "contentHash": "f932ffb32afce5ee92a8e4eb9436ac7cd6a3c77f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580737242201,
+            "changeTime": 1580737242201,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643731,
+            "changeTime": 1579944643731,
+            "contentHash": "d923218816a9d23be8a4b1f5f7ed6471a2661959",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643729,
+            "changeTime": 1579944643729,
+            "contentHash": "b26b3dc1179b5a954f483e57e51d53390c50555b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-1.12.4.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-1.12.4.js",
+            "isDirectory": false,
+            "size": 304438,
+            "modifiedTime": 1579944643720,
+            "changeTime": 1579944643720,
+            "contentHash": "567273b96aa7ceabd9afe987a78d05d6045b00f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.css",
+            "isDirectory": false,
+            "size": 37284,
+            "modifiedTime": 1579944643721,
+            "changeTime": 1579944643721,
+            "contentHash": "e523affdbb2093ae7e228833763d21bbad9ac791",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\jquery-ui.js",
+            "isDirectory": false,
+            "size": 539419,
+            "modifiedTime": 1579944643728,
+            "changeTime": 1579944643728,
+            "contentHash": "bb29ef940e8a15144a4df2b5c68e944087934bd2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\style.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete\\style.css",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1579944643729,
+            "changeTime": 1579944643729,
+            "contentHash": "45b81092c2754794011cd0857fa1da129f41020c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\AutoComplete.resource-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1579944643716,
+            "changeTime": 1579944643716,
+            "contentHash": "87828c0daf9496e68146dc4966620ccf499dfafa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643731,
+            "changeTime": 1579944643731,
+            "contentHash": "09e871c98fef3b901a775def173e4126aaf73b42",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images\\Images",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images\\Images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643732,
+            "changeTime": 1579944643732,
+            "contentHash": "d4abde5d9d9ec96ee4b8d16e3dc55410e6586741",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images\\Images\\trailhead.jpg",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images\\Images\\trailhead.jpg",
+            "isDirectory": false,
+            "size": 19646,
+            "modifiedTime": 1579944643732,
+            "changeTime": 1579944643732,
+            "contentHash": "b60fe5cfb2e0acb9babb94af113af47df9145163",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources\\Images.resource-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1579944643730,
+            "changeTime": 1579944643730,
+            "contentHash": "87828c0daf9496e68146dc4966620ccf499dfafa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580737053909,
+            "changeTime": 1580737053909,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580146564487,
+            "changeTime": 1580146564487,
+            "contentHash": "04a4e9da8b33db0655d7210e24f057e5fe4fb9ad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger",
+            "isDirectory": false,
+            "size": 601,
+            "modifiedTime": 1579944643735,
+            "changeTime": 1579944643735,
+            "contentHash": "5c6bfd97813fd64bb1094f8b61d704f1267d9eda",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\TotaFamilyMemberTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1579944643736,
+            "changeTime": 1579944643736,
+            "contentHash": "b0ba6c96733f5e5c86c76b9b854eeaa458610157",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger",
+            "isDirectory": false,
+            "size": 1141,
+            "modifiedTime": 1579944643737,
+            "changeTime": 1579944643737,
+            "contentHash": "3c83b7d6bd8236b76e6f2d258081607abe812e31",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UpdateAccountWithTopOpportunityTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1579944643738,
+            "changeTime": 1579944643738,
+            "contentHash": "b0ba6c96733f5e5c86c76b9b854eeaa458610157",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\updateUserNameTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\updateUserNameTrigger.trigger",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1579944643740,
+            "changeTime": 1579944643740,
+            "contentHash": "c81ec8df198c2324f3c18a8ceac79b1a92a2d566",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\updateUserNameTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\updateUserNameTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1579944643742,
+            "changeTime": 1579944643742,
+            "contentHash": "e6b0c1d6050d9775218b486242e79de262a51d3d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1579944643739,
+            "changeTime": 1579944643739,
+            "contentHash": "ed2ed196a194f1fd23ec457032358fd9887a1070",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\UserDeactivationTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1579944643740,
+            "changeTime": 1579944643740,
+            "contentHash": "b0ba6c96733f5e5c86c76b9b854eeaa458610157",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\workflows",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\workflows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643743,
+            "changeTime": 1579944643743,
+            "contentHash": "d4baa28cc79888a725b45028572b151bdc6f3bd8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\workflows\\City__c.workflow-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\workflows\\City__c.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 101,
+            "modifiedTime": 1579944643743,
+            "changeTime": 1579944643743,
+            "contentHash": "fcad5f59b5b1ca4206d5420a16d709b7e6e22bd8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579944643744,
+            "changeTime": 1579944689823,
+            "contentHash": "6de592417fab16df50d4b24b618b6791cfa92399",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\Numbe_of_Open_Tasks__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\Numbe_of_Open_Tasks__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1580146564372,
+            "changeTime": 1580146564372,
+            "contentHash": "3829e888481bce43c03542931ab0e23feaa6413a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Closed_Tasks__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Closed_Tasks__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1580146564372,
+            "changeTime": 1580146564372,
+            "contentHash": "e8c9dffb0203cee96e686fc90969d74e44b7671f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CountTaskTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CountTaskTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1580146564461,
+            "changeTime": 1580146564461,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CountTaskTriggerHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\classes\\CountTaskTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 4349,
+            "modifiedTime": 1580146564479,
+            "changeTime": 1580146564479,
+            "contentHash": "e4ec20976d276d9e77fcf4b29295d572cf62b79e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\CountTaskTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\CountTaskTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1580146564485,
+            "changeTime": 1580146564485,
+            "contentHash": "016e4fce40a2a732b539f57f7da127ae55c24c7b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\CountTaskTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\triggers\\CountTaskTrigger.trigger",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1580146564487,
+            "changeTime": 1580146564487,
+            "contentHash": "a806b2797b9d0a8ac1acde06c2e0376f87081062",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580736883909,
+            "changeTime": 1580736883909,
+            "contentHash": "5395ebfd174b0a5617e6f409dfbb3e064e3fdf0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1580738907735,
+            "changeTime": 1580738907735,
+            "contentHash": "44f840d5626ef987bbbd93d80f0479943cbbb292"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1580738455913,
+            "changeTime": 1580738455913,
+            "contentHash": "7167b3c49e6d7fa551279f03f0ca315ef0faa9d3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "size": 268,
+            "modifiedTime": 1580738391866,
+            "changeTime": 1580738391866,
+            "contentHash": "77309062fbd1d075e7793e30823e721174d7a1b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1580736813534,
+            "changeTime": 1580736813534,
+            "contentHash": "ec41b38fbaef82a944d5bcac281d73753079c794",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 88,
+            "modifiedTime": 1580739026154,
+            "changeTime": 1580739026154,
+            "contentHash": "bce82edd2b9e3983116819fea705a07e7bbe0432"
+        }
+    ]
+]
