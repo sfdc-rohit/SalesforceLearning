@@ -35,9 +35,9 @@
             "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1580736251592,
-            "changeTime": 1580736251592,
-            "contentHash": "ef045229f01a0e9d7ff43bcd2c9cee7ae35aa538",
+            "modifiedTime": 1580740227832,
+            "changeTime": 1580740227832,
+            "contentHash": "8f2d8eaf454bbef9991b7d357346637059521d8c",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -2874,20 +2874,6 @@
         }
     ],
     [
-        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\settings",
-        {
-            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\settings",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1580737242201,
-            "changeTime": 1580737242201,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
-        }
-    ],
-    [
         "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources",
         {
             "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\staticresources",
@@ -3050,20 +3036,6 @@
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\tabs",
-        {
-            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\tabs",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1580737053909,
-            "changeTime": 1580737053909,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
         }
     ],
     [
@@ -3325,14 +3297,14 @@
     [
         "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1580739768707,
-            "changeTime": 1580739768707,
-            "contentHash": "4b9c17cb46f321d331a992a3a7440a8073f14dbc"
+            "modifiedTime": 1580794977657,
+            "changeTime": 1580794977657,
+            "contentHash": "7368ccf47f2f2b0e8a5f90e9d391bfc06d782cb8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -3403,53 +3375,274 @@
     [
         "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1580739472070,
             "changeTime": 1580739472070,
-            "contentHash": "263f441d3db53814131c695c903a9518546d6b1b"
+            "contentHash": "263f441d3db53814131c695c903a9518546d6b1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample\\conditionalRenderingExample.html",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample\\conditionalRenderingExample.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 326,
             "modifiedTime": 1580739630112,
             "changeTime": 1580739630112,
-            "contentHash": "2616bfd62ca603d2af3e0b7369de0f8008a30b07"
+            "contentHash": "2616bfd62ca603d2af3e0b7369de0f8008a30b07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample\\conditionalRenderingExample.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample\\conditionalRenderingExample.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 237,
-            "modifiedTime": 1580739702263,
+            "modifiedTime": 1580739793639,
             "changeTime": 1580739702263,
-            "contentHash": "fe9d45fe898c9e83c5132b2106bf53989413538d"
+            "contentHash": "fe9d45fe898c9e83c5132b2106bf53989413538d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample\\conditionalRenderingExample.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\conditionalRenderingExample\\conditionalRenderingExample.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 372,
             "modifiedTime": 1580739743752,
             "changeTime": 1580739743752,
-            "contentHash": "ec41b38fbaef82a944d5bcac281d73753079c794"
+            "contentHash": "ec41b38fbaef82a944d5bcac281d73753079c794",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580751621016,
+            "changeTime": 1580751621016,
+            "contentHash": "55fbe56812c68bc936bb5bfe40dcd836d4a48002",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator\\simpleCalculator.html",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator\\simpleCalculator.html",
+            "isDirectory": false,
+            "size": 2548,
+            "modifiedTime": 1580754408430,
+            "changeTime": 1580754408430,
+            "contentHash": "2ac2413bbf60328f2ef0bdb1a0ba5193213b412d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator\\simpleCalculator.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator\\simpleCalculator.js",
+            "isDirectory": false,
+            "size": 1731,
+            "modifiedTime": 1580754399214,
+            "changeTime": 1580754399214,
+            "contentHash": "16934f7b7316a904fecd4a7a13584d11e2bb3787",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator\\simpleCalculator.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\simpleCalculator\\simpleCalculator.js-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1580752497310,
+            "changeTime": 1580752497310,
+            "contentHash": "ec41b38fbaef82a944d5bcac281d73753079c794",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580789448627,
+            "changeTime": 1580789448627,
+            "contentHash": "144b74ab40b5fde9b3a3898704a54ca87f8a9afb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator\\bmiCalculator.html",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator\\bmiCalculator.html",
+            "isDirectory": false,
+            "size": 489,
+            "modifiedTime": 1580790805206,
+            "changeTime": 1580790805206,
+            "contentHash": "73a082b8471ae75bb1cd8a0d46582ae6568a3175",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator\\bmiCalculator.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator\\bmiCalculator.js",
+            "isDirectory": false,
+            "size": 775,
+            "modifiedTime": 1580790807542,
+            "changeTime": 1580790807542,
+            "contentHash": "bb2d5a2b571269c74085a06828aefb4a54679dd7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator\\bmiCalculator.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\bmiCalculator\\bmiCalculator.js-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1580790468132,
+            "changeTime": 1580790468132,
+            "contentHash": "ec41b38fbaef82a944d5bcac281d73753079c794",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580795295701,
+            "changeTime": 1580795295701,
+            "contentHash": "0402acb38db3ac53e985610ada5613821182eba2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1580794969697,
+            "changeTime": 1580794969697,
+            "contentHash": "8f46facbaf704a1873346380ce513958a5172f90",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.css",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.css",
+            "isDirectory": false,
+            "size": 119,
+            "modifiedTime": 1580795317144,
+            "changeTime": 1580795317144,
+            "contentHash": "0831dc69742339238ba0addec228ddda34b66f92",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.html",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 474,
+            "modifiedTime": 1580797409806,
+            "changeTime": 1580797409806,
+            "contentHash": "3f21104dcb77acddf9ab6b6bfe32b77b289ed418"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.js",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1580796128751,
+            "changeTime": 1580796128751,
+            "contentHash": "d5c8e417f1a8b1aef35f9db2cb4b2c2b6f45de47",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRoom\\meetingRoom.js-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1580794647759,
+            "changeTime": 1580794647759,
+            "contentHash": "9804da2687b259ef8e0bbe4b6873f768d2062568",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms\\meetingRooms.html",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms\\meetingRooms.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 756,
+            "modifiedTime": 1580797396620,
+            "changeTime": 1580797396620,
+            "contentHash": "8a1c3da80144fe214f0e8c1731635b6601bca4ca"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms\\meetingRooms.js",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms\\meetingRooms.js",
+            "isDirectory": false,
+            "size": 271,
+            "modifiedTime": 1580795133296,
+            "changeTime": 1580795133296,
+            "contentHash": "cf898357f92af9d7596913b8c207d6d4aaabb1b7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms\\meetingRooms.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\Documents\\SalesforceLearning\\force-app\\main\\default\\lwc\\meetingRooms\\meetingRooms.js-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1580795587977,
+            "changeTime": 1580795587977,
+            "contentHash": "ec41b38fbaef82a944d5bcac281d73753079c794",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
