@@ -1,0 +1,53 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/bmiCalculator": [
+                "bmiCalculator/bmiCalculator.js"
+            ],
+            "c/conditionalRenderingExample": [
+                "conditionalRenderingExample/conditionalRenderingExample.js"
+            ],
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/meetingRoom": [
+                "meetingRoom/meetingRoom.js"
+            ],
+            "c/meetingRooms": [
+                "meetingRooms/meetingRooms.js"
+            ],
+            "c/publicMethodChild": [
+                "publicMethodChild/publicMethodChild.js"
+            ],
+            "c/simpleCalculator": [
+                "simpleCalculator/simpleCalculator.js"
+            ],
+            "c/selectedMeetingRoom": [
+                "selectedMeetingRoom/selectedMeetingRoom.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/accountCreationComponent": [
+                "accountCreationComponent/accountCreationComponent.js"
+            ],
+            "c/accountCreationComponentUsingForms": [
+                "accountCreationComponentUsingForms/accountCreationComponentUsingForms.js"
+            ],
+            "c/accountCreationComponentForm": [
+                "accountCreationComponentForm/accountCreationComponentForm.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
